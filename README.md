@@ -46,7 +46,7 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 | [AI Humanizer](https://chatgpt.com/g/g-2azCVmXdy-ai-humanizer) | #1 AI humanizer in the world \| Get human-like content in seconds. This GPT humanizes AI-generated text with FREE credits available, maintaining content meaning and quality. |
 | [Humanize AI](https://chatgpt.com/g/g-a6Fpz8NRb-humanize-ai) | Top 1 AI humanizer to help you get human-like content. Humanize your AI-generated content with Free credits available. |
 | [AI Humanizer Pro](https://chatgpt.com/g/g-TiS7zU3kO-ai-humanizer-pro) | Best AI humanizer to help you get 100% human score. Humanize your AI-generated content maintaining content meaning and quality intact. FREE credits & Multiple languages support available. |
-| [Academic Assistant Pro](https://chatgpt.com/g/g-UubB08D4y-academic-assistant-pro) | Professional academic assistant with a professorial touch |
+| [Academic Assistant Pro](https://chatgpt.com/g/g-UubB08D4y-academic-assistant-pro) | Professional academic assistant with a professorial touch. |
 
 ### Editing
 | Name | Description |
@@ -68,7 +68,7 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 #### Math and Science
 | Name | Description |
 | --- | --- |
-| [Wolfram](https://chatgpt.com/g/g-0S5FXLyFN-wolfram) | Access computation, math, curated knowledge & real-time data from Wolfram|Alpha and Wolfram Language; from the makers of [Mathematica](https://www.wolfram.com/mathematica/). |
+| [Wolfram](https://chatgpt.com/g/g-0S5FXLyFN-wolfram) | Access computation, math, curated knowledge & real-time data from Wolfram \| Alpha and Wolfram Language; from the makers of [Mathematica](https://www.wolfram.com/mathematica/). |
 |[Math Solver](https://chatgpt.com/g/g-9YeZz6m6k-math-solver) | Your AI Math Solver, offers step-by-step answers, and helps you learn math and even all subjects, at any educational level.|
 |[math](https://chatgpt.com/g/g-WP1diWHRl-math) | The worlds most powerful math tool. [$PULSR](https://pulsr.co.uk/) |
 |[physics](https://chatgpt.com/g/g-KMujTLNVK-physics) | The worlds most powerful Physics tool. [$PULSR](https://pulsr.co.uk/) |
@@ -106,10 +106,10 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 | [ResearchFlow](https://rflow.ai/) | ResearchFlow is an AI-powered research engine that empowers you to dive deep, connect ideas, and amplify your research with our visual mind maps.|
 | [Elicit](https://elicit.com/?redirected=true) | Automate time-consuming research tasks like summarizing papers, extracting data, and synthesizing your findings. |
 | [SciSpace](https://chatgpt.com/g/g-NgAcklHd8-scispace) | Do hours worth of research in minutes. Instantly access 287M+ papers, analyze papers at lightning speed, and effortlessly draft content with accurate citations. |
-| [SEMANTIC SCHOLAR](https://www.semanticscholar.org/) | A free, AI-powered research tool for scientific literature |
+| [SEMANTIC SCHOLAR](https://www.semanticscholar.org/) | A free, AI-powered research tool for scientific literature. |
 | [Scholar AI](https://chatgpt.com/g/g-L2HknCZTC-scholar-ai) | AI Research Assistant — search and review 200M+ scientific papers, patents, and books. Research literature, discover insights, and generate new ideas. |
 | [liner](https://getliner.com/) | Best AI search engine for students and researchers trusted by over 10 million people. |
-| [Connected Papers](https://www.connectedpapers.com/) | Get a visual overview of a new academic field. Make sure you haven't missed an important paper. Create the bibliography for your thesis. Discover the most relevant prior and derivative works  |
+| [Connected Papers](https://www.connectedpapers.com/) | Get a visual overview of a new academic field. Make sure you haven't missed an important paper. Create the bibliography for your thesis. Discover the most relevant prior and derivative works.  |
 | [AI PDF Drive: Chat, Create, Organize](https://chatgpt.com/g/g-V2KIUZSj0-ai-pdf-drive-chat-create-organize) | The ultimate document assistant. Upload and chat with all your files, create polished PDFs (presentations, reports, resumes, letters) right from the GPT. |
 | [PDF Reader](https://chatgpt.com/g/g-QSh6KHL3S-pdf-reader) | In-depth interaction with PDF content. |
 
@@ -124,7 +124,7 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 
 | Name | Description |
 | --- | --- |
-| [GitHub Copilot](https://github.com/features/copilot)| Available for free to [verified students](https://github.com/education/students). The Al editor for everyone |
+| [GitHub Copilot](https://github.com/features/copilot)| Available for free to [verified students](https://github.com/education/students). The Al editor for everyone. |
 | [Cursor](https://www.cursor.com/) | A code editor built for programming with AI. |
 | [Code Copilot](https://chatgpt.com/g/g-2DQzU5UZl-code-copilot) | Code Smarter, Build Faster—With the Expertise of a 10x Programmer by Your Side. |
 | [Code GPT Python Java C HTML Javascript & more](https://chatgpt.com/g/g-cksUvVWar-code-gpt-python-java-c-html-javascript-more) | The worlds most powerful coding assistant. [$PULSR](https://pulsr.co.uk/) |
@@ -132,14 +132,14 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 |[Code: Java, C/C++, Python, C#, JS, PHP, HTML,VB/VC](https://chatgpt.com/g/g-mvHas1oxx-code-java-c-c-python-c-js-php-html-vb-vc)| Expert AI coding assistant, crafted for professionals to develop, optimize, and debug production-level code in multiple programming languages. With support for Canvas. |
 | [Python](https://chatgpt.com/g/g-cKXjWStaE-python) | A highly sophisticated GPT tailored for Python. |
 | [Python](https://chatgpt.com/g/g-tNwCg2vYv-python) | A Python assistant for all skills levels, pre-trained on https://www.python.org/ and https://stackoverflow.com/ |
-| [Python GPT](https://chatgpt.com/g/g-7ytGE8k6i-python-gpt) | Your Python Coding Assistant |
-|[python代码专家](https://chatgpt.com/g/g-96yGePWce-pythondai-ma-zhuan-jia) | 生成详细中文注释的专业Python代码 |
+| [Python GPT](https://chatgpt.com/g/g-7ytGE8k6i-python-gpt) | Your Python Coding Assistant. |
+|[python代码专家](https://chatgpt.com/g/g-96yGePWce-pythondai-ma-zhuan-jia) | 生成详细中文注释的专业Python代码。 |
 | [R Wizard](https://chatgpt.com/g/g-TgjKDuQwZ-r-wizard) | A specialist in R programming, skilled in Data Science, Statistics, and Finance, providing accurate and useful guidance. |
 | [R Programming Assist](https://chatgpt.com/g/g-o0ry91FuX-r-programming-assist) | Assistant for R Programming, Data Visualization, and Advanced Data Science. |
-| [R Programming](https://chatgpt.com/g/g-VF8IGDpDV-r-programming) | R programming expert for statistics and machine learning |
+| [R Programming](https://chatgpt.com/g/g-VF8IGDpDV-r-programming) | R programming expert for statistics and machine learning. |
 | [SQL Expert](https://chatgpt.com/g/g-m5lMeGifF-sql-expert) | SQL expert for optimization and queries. |
-| [SQL Server (MSSQL)](https://chatgpt.com/g/g-CEcC6a7V5-sql-server-mssql) | Your personal SQL Server assistant and query generator |
-| [Oracle SQL](https://chatgpt.com/g/g-Y7qmkJ6ss-oracle-sql) | Your personal Oracle SQL assistant and query generator |
+| [SQL Server (MSSQL)](https://chatgpt.com/g/g-CEcC6a7V5-sql-server-mssql) | Your personal SQL Server assistant and query generator. |
+| [Oracle SQL](https://chatgpt.com/g/g-Y7qmkJ6ss-oracle-sql) | Your personal Oracle SQL assistant and query generator. |
 
 
 ## Creative Projects
@@ -150,7 +150,7 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 | [Idea Generator - BRAINSTORMER v2](https://chatgpt.com/g/g-giwg7w8Hv-idea-generator-brainstormer-v2) | Stunspot's ideation generator! Ideas for days!  |
 | [Diagrams: Flowcharts & Mindmaps](https://chatgpt.com/g/g-jBdvgesNC-diagrams-flowcharts-mindmaps) | Infographics & visualization; diagrams, charts + analysis; for code: database, ux, erd, plantuml! for business & data analysis: flowchart, timeline & more! |
 | [Flow Chart Genius](https://chatgpt.com/g/g-uVn4O2oB4-flow-chart-genius) | I create flow charts to explain connections. |
-| [流程图大师 Flowchart Master](https://chatgpt.com/g/g-yxGozSRry-liu-cheng-tu-da-shi-flowchart-master) | Guide users in creating flowcharts in a friendly and professional manner |
+| [流程图大师 Flowchart Master](https://chatgpt.com/g/g-yxGozSRry-liu-cheng-tu-da-shi-flowchart-master) | Guide users in creating flowcharts in a friendly and professional manner. |
 
 ## Aditional Resources
 - [AI-Based Literature Review Tools](https://tamu.libguides.com/c.php?g=1289555) from Texas A&M University
@@ -161,5 +161,5 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 - [Artificial intelligence tools for research](https://guides.library.iit.edu/c.php?g=1309383&p=9671785) from Illinois Institute of Technology
 
 ## Disclaimer
-This content is intended solely for productivity enhancement and should not be used for academic misconduct or fraudulent purposes.
+This content is intended solely for productivity enhancement and should not be used for academic misconduct or fraudulent purposes.<br>
 All tool descriptions are sourced directly from their respective official websites.
