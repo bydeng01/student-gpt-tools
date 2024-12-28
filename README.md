@@ -5,7 +5,7 @@ Consider using the latest models from [Chatgpt](https://chatgpt.com/), [Claude](
 Please consider giving this list a star ⭐ if you find it useful.<br>
 
 # Table of Contents
-1. [Writing and Editing](#writing-and-editing-%e1%9d%b0%f0%9f%96%8b%ef%b8%8f)
+1. [Writing and Editing ᝰ🖋️](#writing-and-editing-ᝰ🖋️)
    - [Prompt for Writing](#prompt-for-writing)
    - [Writing](#writing)
    - [Editing](#editing)
