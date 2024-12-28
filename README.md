@@ -5,7 +5,7 @@ Consider using the latest models from [Chatgpt](https://chatgpt.com/), [Claude](
 Please consider giving this list a star ⭐ if you find it useful.<br>
 
 # Table of Contents
-1. [Writing and Editing](#writing-and-editing)
+1. [Writing and Editing](#writing-and-editing-ᝰ🖋️)
    - [Prompt for Writing](#prompt-for-writing)
    - [Writing](#writing)
    - [Editing](#editing)
@@ -29,7 +29,7 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 
 7. [Disclaimer](#disclaimer)
 
-## Writing and Editing
+## Writing and Editing ᝰ🖋️
 
 ### Prompt for Writing
 - [AI for Grant Writing](https://github.com/eseckel/ai-for-grant-writing)
