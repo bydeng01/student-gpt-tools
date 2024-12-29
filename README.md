@@ -117,6 +117,7 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 | [SEMANTIC SCHOLAR](https://www.semanticscholar.org/) | A free, AI-powered research tool for scientific literature. |
 | [Scholar AI](https://chatgpt.com/g/g-L2HknCZTC-scholar-ai) | AI Research Assistant — search and review 200M+ scientific papers, patents, and books. Research literature, discover insights, and generate new ideas. |
 | [liner](https://getliner.com/) | Best AI search engine for students and researchers trusted by over 10 million people. |
+| [Keenious](https://keenious.com/) | Find research relevant to any text. |
 | [Connected Papers](https://www.connectedpapers.com/) | Get a visual overview of a new academic field. Make sure you haven't missed an important paper. Create the bibliography for your thesis. Discover the most relevant prior and derivative works.  |
 | [AI PDF Drive: Chat, Create, Organize](https://chatgpt.com/g/g-V2KIUZSj0-ai-pdf-drive-chat-create-organize) | The ultimate document assistant. Upload and chat with all your files, create polished PDFs (presentations, reports, resumes, letters) right from the GPT. |
 | [PDF Reader](https://chatgpt.com/g/g-QSh6KHL3S-pdf-reader) | In-depth interaction with PDF content. |
@@ -168,6 +169,7 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 - [An introduction to generative AI and its use in teaching, research, and publishing](https://libguides.rutgers.edu/artificial-intelligence/ai-in-research) from Rutgers University
 - [Using generative AI tools for study and in research in an ethical, responsible and evaluative way](https://libguides.adelaide.edu.au/c.php?g=959585&p=6965731) from University of Adelaide
 - [Artificial intelligence tools for research](https://guides.library.iit.edu/c.php?g=1309383&p=9671785) from Illinois Institute of Technology
+- [Guidance on using AI tools](https://researchguides.library.syr.edu/AI) from Syracuse University
 
 ## Disclaimer
 This content is intended solely for productivity enhancement and should not be used for academic misconduct or fraudulent purposes.<br>
