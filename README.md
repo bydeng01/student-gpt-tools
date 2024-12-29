@@ -170,6 +170,7 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 - [Using generative AI tools for study and in research in an ethical, responsible and evaluative way](https://libguides.adelaide.edu.au/c.php?g=959585&p=6965731) from University of Adelaide
 - [Artificial intelligence tools for research](https://guides.library.iit.edu/c.php?g=1309383&p=9671785) from Illinois Institute of Technology
 - [Guidance on using AI tools](https://researchguides.library.syr.edu/AI) from Syracuse University
+- [AI: Tips & Tools](https://guides.lib.vt.edu/ai/home) from Virginia Tech University
 
 ## Disclaimer
 This content is intended solely for productivity enhancement and should not be used for academic misconduct or fraudulent purposes.<br>
