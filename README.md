@@ -1,8 +1,12 @@
 # student-gpt-tools
-🎓 A curated collection of GPT tools and resources tailored for students to enhance learning, productivity, and creativity. Explore AI-powered solutions for writing, studying, coding, and more—designed to make academic life smarter and easier!
+🎓 A curated collection of GPT tools and resources tailored for students to enhance learning, productivity, and creativity. Explore AI-powered solutions for writing, studying, coding, and more—designed to make academic life smarter and easier!<br>
+专为学生设计的GPT工具和资源集合，旨在提升学习能力、生产力和创造力。探索用于写作、学习、编程等领域的AI，让学术生活变得更智能、更轻松！
 
 Consider using the latest models from [Chatgpt](https://chatgpt.com/), [Claude](https://claude.ai/new) and [Gemini](https://gemini.google.com/app) for advanced capabilities.<br>
+建议您尝试使用[ChatGPT](https://chatgpt.com/)、[Claude](https://claude.ai/new) 和 [Gemini](https://gemini.google.com/app) 的最新模型，以体验更先进的功能。<br>
+
 Please consider giving this list a star ⭐ if you find it useful.<br>
+如果您觉得这个列表对您有所帮助，请考虑给它一个⭐。<br>
 
 # Table of Contents
 1. [Writing and Editing](#writing-and-editing)
