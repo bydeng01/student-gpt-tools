@@ -123,7 +123,7 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 | [Excel AI](https://chatgpt.com/g/g-R6VqLNHFM-excel-ai) | The worlds most powerful data analysis assistant. |
 | [Data Analyst](https://chatgpt.com/g/g-HMNcP6w7d-data-analyst) | Drop in any files and I can help analyze and visualize your data. |
 | [Data Analysis - SPSS](https://chatgpt.com/g/g-Zr8z65jea-data-analysis-spss) | Expert in statistical analysis and SPSS, guiding researchers. |
-| [lida](https://github.com/microsoft/lida?tab=readme-ov-file) [![GitHub Repo](https://img.shields.io/badge/Repo-lida-blue)](https://github.com/microsoft/lida?tab=readme-ov-file) [![GitHub stars](https://img.shields.io/github/stars/microsoft/lida.svg?style=social&label=Star)](https://github.com/microsoft/lida?tab=readme-ov-file) | Automatic generation of visualizations and infographics using Large Language Models |
+| [lida](https://github.com/microsoft/lida?tab=readme-ov-file) <br> [![GitHub Repo](https://img.shields.io/badge/Repo-lida-blue)](https://github.com/microsoft/lida?tab=readme-ov-file) [![GitHub stars](https://img.shields.io/github/stars/microsoft/lida.svg?style=social&label=Star)](https://github.com/microsoft/lida?tab=readme-ov-file) | Automatic generation of visualizations and infographics using Large Language Models |
 
 ## Coding and Debugging
 
