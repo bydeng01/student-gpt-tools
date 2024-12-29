@@ -51,6 +51,7 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 ### Editing
 | Name | Description |
 | --- | --- |
+| [The Spear](https://thespear.org/) | 0 AI Detection. The Spear can help you rewrite and optimize English papers Perfectly bypass plagiarism + AI detection. |
 | [Grammar](https://chatgpt.com/g/g-HVeXQJWBN-grammar) | Fix grammar mistakes in your text. Works with all languages. |
 
 
