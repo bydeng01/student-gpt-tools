@@ -52,6 +52,7 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 | Name | Description |
 | --- | --- |
 | [The Spear](https://thespear.org/) | 0 AI Detection. The Spear can help you rewrite and optimize English papers Perfectly bypass plagiarism + AI detection. |
+| [undetectable AI](https://undetectable.ai/) | Advanced AI Detector and Humanizer. |
 | [Grammar](https://chatgpt.com/g/g-HVeXQJWBN-grammar) | Fix grammar mistakes in your text. Works with all languages. |
 
 
@@ -96,6 +97,7 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 | Name | Description |
 | --- | --- |
 | [SCISPACE](https://typeset.io/) | All-in-one AI tools for students and researchers. |
+| [MedPeer](https://product.medpeer.cn/product/index/product) | Comprehensive access to tools and databases for academic writing， scientific plotting, machine translation, scientific communication, and scientific literature, making research easier. 一站式访问论文写作、科研绘图、机器翻译、科学对话、科技文献等工具和数据库，让科研变得更简单。|
 
 ### Literature Review and Reading
 | Name | Description |
@@ -107,6 +109,7 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 | [ResearchFlow](https://rflow.ai/) | ResearchFlow is an AI-powered research engine that empowers you to dive deep, connect ideas, and amplify your research with our visual mind maps.|
 | [Elicit](https://elicit.com/?redirected=true) | Automate time-consuming research tasks like summarizing papers, extracting data, and synthesizing your findings. |
 | [SciSpace](https://chatgpt.com/g/g-NgAcklHd8-scispace) | Do hours worth of research in minutes. Instantly access 287M+ papers, analyze papers at lightning speed, and effortlessly draft content with accurate citations. |
+| [ReadPaper](https://readpaper.com/new) | An AI-powered research tool integrating translation, reading, search, and management functions. 集翻译、阅读、搜索、管理等于一体的 AI 科研神器。 |
 | [SEMANTIC SCHOLAR](https://www.semanticscholar.org/) | A free, AI-powered research tool for scientific literature. |
 | [Scholar AI](https://chatgpt.com/g/g-L2HknCZTC-scholar-ai) | AI Research Assistant — search and review 200M+ scientific papers, patents, and books. Research literature, discover insights, and generate new ideas. |
 | [liner](https://getliner.com/) | Best AI search engine for students and researchers trusted by over 10 million people. |
@@ -120,6 +123,7 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 | [Excel AI](https://chatgpt.com/g/g-R6VqLNHFM-excel-ai) | The worlds most powerful data analysis assistant. |
 | [Data Analyst](https://chatgpt.com/g/g-HMNcP6w7d-data-analyst) | Drop in any files and I can help analyze and visualize your data. |
 | [Data Analysis - SPSS](https://chatgpt.com/g/g-Zr8z65jea-data-analysis-spss) | Expert in statistical analysis and SPSS, guiding researchers. |
+| [lida](https://github.com/microsoft/lida?tab=readme-ov-file) | Automatic generation of visualizations and infographics using Large Language Models |
 
 ## Coding and Debugging
 
