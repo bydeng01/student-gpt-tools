@@ -163,6 +163,7 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 | [流程图大师 Flowchart Master](https://chatgpt.com/g/g-yxGozSRry-liu-cheng-tu-da-shi-flowchart-master) | Guide users in creating flowcharts in a friendly and professional manner. |
 
 ## Additional Resources
+- [Artificial Intelligence and Generative AI for Media & Journalism: Libraries and AI](https://guides.lib.unc.edu/generativeAI/ai-libraries) from University of North Carolina at Chapel Hill
 - [AI-Based Literature Review Tools](https://tamu.libguides.com/c.php?g=1289555) from Texas A&M University
 - [AI in Research Guide](https://guides.lib.uci.edu/research_ai/researchtools) from University of California, Irvine
 - [Artificial Intelligence (Generative) Resources](https://guides.library.georgetown.edu/ai/tools) from Georgetown University
