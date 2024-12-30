@@ -166,6 +166,7 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 ## Additional Resources
 - [Artificial Intelligence (AI) tools for literature reviews](https://guides.library.duke.edu/litreviews/AI) from Duke University
 - [Artificial Intelligence and Generative AI for Media & Journalism: Libraries and AI](https://guides.lib.unc.edu/generativeAI/ai-libraries) from University of North Carolina at Chapel Hill
+- [Artificial Intelligence (A.I.) Tools and Academic Use](https://guides.library.ucla.edu/c.php?g=1308287&p=9702196) from University of California, Los Angeles
 - [AI-Based Literature Review Tools](https://tamu.libguides.com/c.php?g=1289555) from Texas A&M University
 - [AI in Research Guide](https://guides.lib.uci.edu/research_ai/researchtools) from University of California, Irvine
 - [Artificial Intelligence (Generative) Resources](https://guides.library.georgetown.edu/ai/tools) from Georgetown University
@@ -175,6 +176,9 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 - [Guidance on using AI tools](https://researchguides.library.syr.edu/AI) from Syracuse University
 - [AI: Tips & Tools](https://guides.lib.vt.edu/ai/home) from Virginia Tech University
 - [AI for Research: AI Research Tools](https://guides.library.unr.edu/generative-ai/tools) from University of Nevada, Reno
+- [Artificial Intelligence Research Guide](https://guides.library.miami.edu/ai#tab-4) from University of Miami
+- [Integration of AI Tools Into Your Research](https://libguides.baylor.edu/AI-for-researchers) from Baylor University
+- [AI in Academic Research and Writing](https://info.library.okstate.edu/AI/tools) from Oklahoma State University
 
 ## Disclaimer
 This content is intended solely for productivity enhancement and should not be used for academic misconduct or fraudulent purposes.<br>
