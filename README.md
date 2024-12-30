@@ -168,6 +168,7 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 | University of North Carolina at Chapel Hill | [Artificial Intelligence and Generative AI for Media & Journalism: Libraries and AI](https://guides.lib.unc.edu/generativeAI/ai-libraries) | USA |
 | University of California, Los Angeles | [Artificial Intelligence (A.I.) Tools and Academic Use](https://guides.library.ucla.edu/c.php?g=1308287&p=9702196) | USA |
 | University of California, Irvine | [AI in Research Guide](https://guides.lib.uci.edu/research_ai/researchtools) | USA |
+| University of California, Davis | [Generative Artificial Intelligence for Teaching, Research and Learning](https://guides.library.ucdavis.edu/genai/cases) | USA |
 | Texas A&M University | [AI-Based Literature Review Tools](https://tamu.libguides.com/c.php?g=1289555) | USA |
 | Georgetown University | [Artificial Intelligence (Generative) Resources](https://guides.library.georgetown.edu/ai/tools) | USA |
 |Rutgers University|[An introduction to generative AI and its use in teaching, research, and publishing](https://libguides.rutgers.edu/artificial-intelligence/ai-in-research)|USA|
