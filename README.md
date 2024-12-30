@@ -110,6 +110,7 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 | [Consensus](https://chatgpt.com/g/g-bo0FiWLY7-consensus) | Ask the research, chat directly with the world's scientific literature. Search references, get simple explanations, write articles backed by academic papers. |
 | [AMiner - AI赋能科技情报挖掘-学术搜索-论文检索-论文专利](https://www.aminer.cn/) | A novel online academic search and mining system. |
 | [OpenRead](https://www.openread.academy/) | AI-powered academic searching and web searching - Over 300 million papers and real-time web content.|
+| [R Discovery](https://discovery.researcher.life/) | #1 AI tool for literature search. |
 | [ResearchFlow](https://rflow.ai/) | ResearchFlow is an AI-powered research engine that empowers you to dive deep, connect ideas, and amplify your research with our visual mind maps.|
 | [Elicit](https://elicit.com/?redirected=true) | Automate time-consuming research tasks like summarizing papers, extracting data, and synthesizing your findings. |
 | [SciSpace](https://chatgpt.com/g/g-NgAcklHd8-scispace) | Do hours worth of research in minutes. Instantly access 287M+ papers, analyze papers at lightning speed, and effortlessly draft content with accurate citations. |
