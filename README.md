@@ -1,5 +1,5 @@
-# student-gpt-tools
-🎓 A curated collection of GPT tools and resources tailored for students to enhance learning, productivity, and creativity. Explore AI-powered solutions for writing, studying, coding, and more—designed to make academic life smarter and easier! Consider using the latest models from [Chatgpt](https://chatgpt.com/), [Claude](https://claude.ai/new) and [Gemini](https://gemini.google.com/app) for advanced capabilities.<br><br>
+# 🎓 student-gpt-tools
+A curated collection of GPT tools and resources tailored for students to enhance learning, productivity, and creativity. Explore AI-powered solutions for writing, studying, coding, and more—designed to make academic life smarter and easier! Consider using the latest models from [Chatgpt](https://chatgpt.com/), [Claude](https://claude.ai/new) and [Gemini](https://gemini.google.com/app) for advanced capabilities.<br><br>
 Please consider giving this list a star ⭐ if you find it useful.<br>
 
 专为学生设计的GPT工具和资源集合，旨在提升学习能力、生产力和创造力。探索用于写作、学习、编程等领域的AI，让学术生活变得更智能、更轻松！建议您尝试使用[ChatGPT](https://chatgpt.com/)、[Claude](https://claude.ai/new) 和 [Gemini](https://gemini.google.com/app) 的最新模型，以体验更先进的功能。中文用户可以考虑使用[通义千问](https://tongyi.aliyun.com/), [deepseekcoder](https://www.deepseek.com/), [讯飞星火](https://xinghuo.xfyun.cn/), [文心一言](https://yiyan.baidu.com/)的最新模型。<br><br>
