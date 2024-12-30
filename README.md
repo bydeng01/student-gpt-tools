@@ -170,6 +170,7 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 | University of California, Irvine | [AI in Research Guide](https://guides.lib.uci.edu/research_ai/researchtools) | USA |
 | University of California, Davis | [Generative Artificial Intelligence for Teaching, Research and Learning](https://guides.library.ucdavis.edu/genai/cases) | USA |
 | Texas A&M University | [AI-Based Literature Review Tools](https://tamu.libguides.com/c.php?g=1289555) | USA |
+| Baylor University | [Integration of AI Tools Into Your Research](https://libguides.baylor.edu/AI-for-researchers) | USA |
 | Georgetown University | [Artificial Intelligence (Generative) Resources](https://guides.library.georgetown.edu/ai/tools) | USA |
 |Rutgers University|[An introduction to generative AI and its use in teaching, research, and publishing](https://libguides.rutgers.edu/artificial-intelligence/ai-in-research)|USA|
 |Illinois Institute of Technology|[Artificial intelligence tools for research](https://guides.library.iit.edu/c.php?g=1309383&p=9671785)|USA|
@@ -177,7 +178,6 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 |Virginia Tech University|[AI: Tips & Tools](https://guides.lib.vt.edu/ai/home)|USA|
 |University of Nevada, Reno|[AI for Research: AI Research Tools](https://guides.library.unr.edu/generative-ai/tools)|USA|
 |University of Miami|[Artificial Intelligence Research Guide](https://guides.library.miami.edu/ai#tab-4)|USA|
-| Baylor University | [Integration of AI Tools Into Your Research](https://libguides.baylor.edu/AI-for-researchers) | USA |
 | Oklahoma State University | [AI in Academic Research and Writing](https://info.library.okstate.edu/AI/tools) | USA |
 |University of Adelaide|[Using generative AI tools for study and in research in an ethical, responsible and evaluative way](https://libguides.adelaide.edu.au/c.php?g=959585&p=6965731)|Australia|
 
