@@ -166,6 +166,7 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 | --- | --- | --- |
 | Duke University | [Artificial Intelligence (AI) tools for literature reviews](https://guides.library.duke.edu/litreviews/AI)| NC, USA |
 | University of North Carolina at Chapel Hill | [Artificial Intelligence and Generative AI for Media & Journalism: Libraries and AI](https://guides.lib.unc.edu/generativeAI/ai-libraries) | NC, USA |
+| North Carolina State University | [AI Research and Instruction Guide](https://www.lib.ncsu.edu/guides/artificial-intelligence/research) | NC, USA |
 | University of California, Los Angeles | [Artificial Intelligence (A.I.) Tools and Academic Use](https://guides.library.ucla.edu/c.php?g=1308287&p=9702196) | CA, USA |
 | University of California, Irvine | [AI in Research Guide](https://guides.lib.uci.edu/research_ai/researchtools) | CA, USA |
 | University of California, Davis | [Generative Artificial Intelligence for Teaching, Research and Learning](https://guides.library.ucdavis.edu/genai/cases) | CA, USA |
