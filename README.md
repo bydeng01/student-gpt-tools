@@ -162,21 +162,23 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 | [流程图大师 Flowchart Master](https://chatgpt.com/g/g-yxGozSRry-liu-cheng-tu-da-shi-flowchart-master) | Guide users in creating flowcharts in a friendly and professional manner. |
 
 ## Institutional AI Guides and Research Resources
-- [Artificial Intelligence (AI) tools for literature reviews](https://guides.library.duke.edu/litreviews/AI) from **Duke University**
-- [Artificial Intelligence and Generative AI for Media & Journalism: Libraries and AI](https://guides.lib.unc.edu/generativeAI/ai-libraries) from **University of North Carolina at Chapel Hill**
-- [Artificial Intelligence (A.I.) Tools and Academic Use](https://guides.library.ucla.edu/c.php?g=1308287&p=9702196) from **University of California, Los Angeles**
-- [AI-Based Literature Review Tools](https://tamu.libguides.com/c.php?g=1289555) from **Texas A&M University**
-- [AI in Research Guide](https://guides.lib.uci.edu/research_ai/researchtools) from **University of California, Irvine**
-- [Artificial Intelligence (Generative) Resources](https://guides.library.georgetown.edu/ai/tools) from **Georgetown University**
-- [An introduction to generative AI and its use in teaching, research, and publishing](https://libguides.rutgers.edu/artificial-intelligence/ai-in-research) from **Rutgers University**
-- [Using generative AI tools for study and in research in an ethical, responsible and evaluative way](https://libguides.adelaide.edu.au/c.php?g=959585&p=6965731) from **University of Adelaide**
-- [Artificial intelligence tools for research](https://guides.library.iit.edu/c.php?g=1309383&p=9671785) from **Illinois Institute of Technology**
-- [Guidance on using AI tools](https://researchguides.library.syr.edu/AI) from **Syracuse University**
-- [AI: Tips & Tools](https://guides.lib.vt.edu/ai/home) from **Virginia Tech University**
-- [AI for Research: AI Research Tools](https://guides.library.unr.edu/generative-ai/tools) from **University of Nevada, Reno**
-- [Artificial Intelligence Research Guide](https://guides.library.miami.edu/ai#tab-4) from **University of Miami**
-- [Integration of AI Tools Into Your Research](https://libguides.baylor.edu/AI-for-researchers) from **Baylor University**
-- [AI in Academic Research and Writing](https://info.library.okstate.edu/AI/tools) from **Oklahoma State University**
+| University | Title | Region |
+| --- | --- | --- |
+| Duke University | [Artificial Intelligence (AI) tools for literature reviews](https://guides.library.duke.edu/litreviews/AI)| USA |
+| University of North Carolina at Chapel Hill | [Artificial Intelligence and Generative AI for Media & Journalism: Libraries and AI](https://guides.lib.unc.edu/generativeAI/ai-libraries) | USA |
+| University of California, Los Angeles | [Artificial Intelligence (A.I.) Tools and Academic Use](https://guides.library.ucla.edu/c.php?g=1308287&p=9702196) | USA |
+| University of California, Irvine | [AI in Research Guide](https://guides.lib.uci.edu/research_ai/researchtools) | USA |
+| Texas A&M University | [AI-Based Literature Review Tools](https://tamu.libguides.com/c.php?g=1289555) | USA |
+| Georgetown University | [Artificial Intelligence (Generative) Resources](https://guides.library.georgetown.edu/ai/tools) | USA |
+|Rutgers University|[An introduction to generative AI and its use in teaching, research, and publishing](https://libguides.rutgers.edu/artificial-intelligence/ai-in-research)|USA|
+|Illinois Institute of Technology|[Artificial intelligence tools for research](https://guides.library.iit.edu/c.php?g=1309383&p=9671785)|USA|
+|Syracuse University|[Guidance on using AI tools](https://researchguides.library.syr.edu/AI)|USA|
+|Virginia Tech University|[AI: Tips & Tools](https://guides.lib.vt.edu/ai/home)|USA|
+|University of Nevada, Reno|[AI for Research: AI Research Tools](https://guides.library.unr.edu/generative-ai/tools)|USA|
+|University of Miami|[Artificial Intelligence Research Guide](https://guides.library.miami.edu/ai#tab-4)|USA|
+| Baylor University | [Integration of AI Tools Into Your Research](https://libguides.baylor.edu/AI-for-researchers) | USA |
+| Oklahoma State University | [AI in Academic Research and Writing](https://info.library.okstate.edu/AI/tools) | USA |
+|University of Adelaide|[Using generative AI tools for study and in research in an ethical, responsible and evaluative way](https://libguides.adelaide.edu.au/c.php?g=959585&p=6965731)|Australia|
 
 ## Disclaimer
 This content is intended solely for productivity enhancement and should not be used for academic misconduct or fraudulent purposes.<br>
