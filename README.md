@@ -86,7 +86,7 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 | [Language Teacher \| Ms. Smith](https://chatgpt.com/g/g-RR3RCyK8N-language-teacher-ms-smith)| Supports 20+ languages - Spanish, German, French, English, Chinese, Korean, Japanese, ... Your private tutor to learn any language in most effective way by having conversation. Increase your vocabulary by talking about fun topics, coach you. |
 | [AI Language Tutors: Learn Spanish, German, French](https://chatgpt.com/g/g-P1X8o6foR-ai-language-tutors-learn-spanish-german-french) | Welcome to the 28 Language Learning Tutors! Here, you can learn and practice over 28 different languages, whether you are a beginner or an advanced learner. |
 |[SpeakPal-Your private AI Language Teacher](https://chatgpt.com/g/g-huBIQBYXM-speakpal-your-private-ai-language-teacher)| Supports 20+ languages - Spanish, German, French, English, Chinese, Korean, Japanese, ... the GPT will increase your vocabulary by talking about fun topics, coach you. |
-| [HelloTalk Learn Languages](https://chatgpt.com/g/g-GbU30tkTv-hellotalk-learn-languages) | Learn more than 50 languages for free using your native language.Learn english through texting people on Duolingo HelloTalk, italki, etc.Estimates test scores, offers practice and guidance. |
+| [HelloTalk Learn Languages](https://chatgpt.com/g/g-GbU30tkTv-hellotalk-learn-languages) | Learn more than 50 languages for free using your native language.Learn English through texting people on Duolingo HelloTalk, italki, etc.Estimates test scores, offers practice and guidance. |
 
 
 #### Programming and Coding
