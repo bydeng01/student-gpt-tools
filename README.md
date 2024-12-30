@@ -28,7 +28,7 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 
 5. [Creative Projects](#creative-projects)
 
-6. [Additional Resources](#additional-resources)
+6. [Institutional AI Guides and Research Resources](#institutional-ai-guides-and-research-resources)
 
 7. [Disclaimer](#disclaimer)
 
@@ -163,7 +163,7 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 | [Flow Chart Genius](https://chatgpt.com/g/g-uVn4O2oB4-flow-chart-genius) | I create flow charts to explain connections. |
 | [流程图大师 Flowchart Master](https://chatgpt.com/g/g-yxGozSRry-liu-cheng-tu-da-shi-flowchart-master) | Guide users in creating flowcharts in a friendly and professional manner. |
 
-## Additional Resources
+## Institutional AI Guides and Research Resources
 - [Artificial Intelligence (AI) tools for literature reviews](https://guides.library.duke.edu/litreviews/AI) from **Duke University**
 - [Artificial Intelligence and Generative AI for Media & Journalism: Libraries and AI](https://guides.lib.unc.edu/generativeAI/ai-libraries) from **University of North Carolina at Chapel Hill**
 - [Artificial Intelligence (A.I.) Tools and Academic Use](https://guides.library.ucla.edu/c.php?g=1308287&p=9702196) from **University of California, Los Angeles**
