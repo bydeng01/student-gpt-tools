@@ -167,20 +167,29 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 | Duke University | [Artificial Intelligence (AI) tools for literature reviews](https://guides.library.duke.edu/litreviews/AI)| NC, USA |
 | University of North Carolina at Chapel Hill | [Artificial Intelligence and Generative AI for Media & Journalism: Libraries and AI](https://guides.lib.unc.edu/generativeAI/ai-libraries) | NC, USA |
 | North Carolina State University | [AI Research and Instruction Guide](https://www.lib.ncsu.edu/guides/artificial-intelligence/research) | NC, USA |
+| University of Maryland | [Artificial Intelligence (AI) and Information Literacy](https://lib.guides.umd.edu/c.php?g=1340355&p=9880565) | MD, USA |
 | University of California, Los Angeles | [Artificial Intelligence (A.I.) Tools and Academic Use](https://guides.library.ucla.edu/c.php?g=1308287&p=9702196) | CA, USA |
 | University of California, Irvine | [AI in Research Guide](https://guides.lib.uci.edu/research_ai/researchtools) | CA, USA |
 | University of California, Davis | [Generative Artificial Intelligence for Teaching, Research and Learning](https://guides.library.ucdavis.edu/genai/cases) | CA, USA |
+| University of Southern California | [Using Generative AI in Research](https://libguides.usc.edu/generative-AI) | CA, USA |
 | Texas A&M University | [AI-Based Literature Review Tools](https://tamu.libguides.com/c.php?g=1289555) | TX, USA |
 | Baylor University | [Integration of AI Tools Into Your Research](https://libguides.baylor.edu/AI-for-researchers) | TX, USA |
 | Georgetown University | [Artificial Intelligence (Generative) Resources](https://guides.library.georgetown.edu/ai/tools) | DC, USA |
 |Rutgers University|[An introduction to generative AI and its use in teaching, research, and publishing](https://libguides.rutgers.edu/artificial-intelligence/ai-in-research)|NJ, USA|
+| Northwestern University | [Using AI Tools in Your Research](https://libguides.northwestern.edu/ai-tools-research) | IL, USA  |
 |Illinois Institute of Technology|[Artificial intelligence tools for research](https://guides.library.iit.edu/c.php?g=1309383&p=9671785)| IL, USA|
 |Syracuse University|[Guidance on using AI tools](https://researchguides.library.syr.edu/AI)|NY, USA|
+| University of Buffalo | [Artificial Intelligence (AI) Research Tools](https://research.lib.buffalo.edu/ai-researchtools/toolstable) | NY, USA |
+| Temple University | [AI Tools for Research](https://guides.temple.edu/ai-research-tools/databases) | PA, USA |
 |Virginia Tech University|[AI: Tips & Tools](https://guides.lib.vt.edu/ai/home)|VA, USA|
 |University of Nevada, Reno|[AI for Research: AI Research Tools](https://guides.library.unr.edu/generative-ai/tools)|NV, USA|
+| University of Nevada, Las Vegas | [Generative AI in Research](https://guides.library.unlv.edu/c.php?g=1361336&p=10053750) | NV, USA |
+| University of Florida | [Artificial Intelligence (AI): Learning and Using AI](https://guides.uflib.ufl.edu/ai) | FL, USA |
 |University of Miami|[Artificial Intelligence Research Guide](https://guides.library.miami.edu/ai#tab-4)|FL, USA|
+| University of Arizona | [AI Literacy in the Age of ChatGPT](https://libguides.library.arizona.edu/ai-literacy-instructors/intro) | AZ, USA |
 | Oklahoma State University | [AI in Academic Research and Writing](https://info.library.okstate.edu/AI/tools) | OK, USA |
-|University of Adelaide|[Using generative AI tools for study and in research in an ethical, responsible and evaluative way](https://libguides.adelaide.edu.au/c.php?g=959585&p=6965731)|Australia|
+| University of Queensland | [AI tools for literature searching](https://guides.library.uq.edu.au/research-techniques/ai-tools-for-literature-searching) | Australia |
+| University of Adelaide|[Using generative AI tools for study and in research in an ethical, responsible and evaluative way](https://libguides.adelaide.edu.au/c.php?g=959585&p=6965731)|Australia|
 
 ## Disclaimer
 This content is intended solely for productivity enhancement and should not be used for academic misconduct or fraudulent purposes.<br>
