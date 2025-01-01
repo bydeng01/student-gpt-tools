@@ -122,12 +122,12 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 | [PDF Reader](https://chatgpt.com/g/g-QSh6KHL3S-pdf-reader) | Available for free users with limited access; account required. \<GPTs\> | In-depth interaction with PDF content. |
 
 ### Data Analysis
-| Name | Description |
-| --- | --- |
-| [Excel AI](https://chatgpt.com/g/g-R6VqLNHFM-excel-ai) | The worlds most powerful data analysis assistant. |
-| [Data Analyst](https://chatgpt.com/g/g-HMNcP6w7d-data-analyst) | Drop in any files and I can help analyze and visualize your data. |
-| [Data Analysis - SPSS](https://chatgpt.com/g/g-Zr8z65jea-data-analysis-spss) | Expert in statistical analysis and SPSS, guiding researchers. |
-| [lida](https://github.com/microsoft/lida?tab=readme-ov-file) <br> [![GitHub Repo](https://img.shields.io/badge/Repo-lida-blue)](https://github.com/microsoft/lida?tab=readme-ov-file) [![GitHub stars](https://img.shields.io/github/stars/microsoft/lida.svg?style=social&label=Star)](https://github.com/microsoft/lida?tab=readme-ov-file) | Automatic generation of visualizations and infographics using Large Language Models. |
+| Name | Cost | Description |
+| --- | --- | --- |
+| [Excel AI](https://chatgpt.com/g/g-R6VqLNHFM-excel-ai) | Available for free users with limited access; account required. \<GPTs\> | The worlds most powerful data analysis assistant. |
+| [Data Analyst](https://chatgpt.com/g/g-HMNcP6w7d-data-analyst) | Available for free users with limited access; account required. \<GPTs\> | Drop in any files and I can help analyze and visualize your data. |
+| [Data Analysis - SPSS](https://chatgpt.com/g/g-Zr8z65jea-data-analysis-spss) | Available for free users with limited access; account required. \<GPTs\> | Expert in statistical analysis and SPSS, guiding researchers. |
+| [lida](https://github.com/microsoft/lida?tab=readme-ov-file) <br> [![GitHub Repo](https://img.shields.io/badge/Repo-lida-blue)](https://github.com/microsoft/lida?tab=readme-ov-file) [![GitHub stars](https://img.shields.io/github/stars/microsoft/lida.svg?style=social&label=Star)](https://github.com/microsoft/lida?tab=readme-ov-file) | Free (open-source) | Automatic generation of visualizations and infographics using Large Language Models. |
 
 ## Coding and Debugging
 
