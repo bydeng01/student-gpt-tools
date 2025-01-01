@@ -176,6 +176,7 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 | Baylor University | [Integration of AI Tools Into Your Research](https://libguides.baylor.edu/AI-for-researchers) | TX, USA |
 | Georgetown University | [Artificial Intelligence (Generative) Resources](https://guides.library.georgetown.edu/ai/tools) | DC, USA |
 |Rutgers University|[An introduction to generative AI and its use in teaching, research, and publishing](https://libguides.rutgers.edu/artificial-intelligence/ai-in-research)|NJ, USA|
+| Vanderbilt University | [AI Research Tools](https://researchguides.library.vanderbilt.edu/c.php?g=1416372&p=10506261) | TN, USA |
 | Northwestern University | [Using AI Tools in Your Research](https://libguides.northwestern.edu/ai-tools-research) | IL, USA  |
 |Illinois Institute of Technology|[Artificial intelligence tools for research](https://guides.library.iit.edu/c.php?g=1309383&p=9671785)| IL, USA|
 |Syracuse University|[Guidance on using AI tools](https://researchguides.library.syr.edu/AI)|NY, USA|
@@ -188,6 +189,7 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 |University of Miami|[Artificial Intelligence Research Guide](https://guides.library.miami.edu/ai#tab-4)|FL, USA|
 | University of Arizona | [AI Literacy in the Age of ChatGPT](https://libguides.library.arizona.edu/ai-literacy-instructors/intro) | AZ, USA |
 | Oklahoma State University | [AI in Academic Research and Writing](https://info.library.okstate.edu/AI/tools) | OK, USA |
+| University of Alberta | [Using Generative AI](https://guides.library.ualberta.ca/generative-ai) | Canada |
 | University of Queensland | [AI tools for literature searching](https://guides.library.uq.edu.au/research-techniques/ai-tools-for-literature-searching) | Australia |
 | University of Adelaide|[Using generative AI tools for study and in research in an ethical, responsible and evaluative way](https://libguides.adelaide.edu.au/c.php?g=959585&p=6965731)|Australia|
 
