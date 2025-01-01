@@ -39,22 +39,22 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 
 
 ### Writing
-| Name | Description |
-| --- | --- |
-| [Grammarly AI Writer](https://www.grammarly.com/ai-writer) | Grammarly’s free AI content writer simplifies the process of creating high-quality content quickly and efficiently. |
-| [Write For Me](https://chatgpt.com/g/g-B3hgivKK9-write-for-me) | Write tailored, engaging content with a focus on quality, relevance and precise word count. |
-| [Creative Writing Coach](https://chatgpt.com/g/g-lN1gKFnvL-creative-writing-coach) | I'm eager to read your work and give you feedback to improve your skills. |
-| [AI Humanizer](https://chatgpt.com/g/g-2azCVmXdy-ai-humanizer) | #1 AI humanizer in the world \| Get human-like content in seconds. This GPT humanizes AI-generated text with FREE credits available, maintaining content meaning and quality. |
-| [Humanize AI](https://chatgpt.com/g/g-a6Fpz8NRb-humanize-ai) | Top 1 AI humanizer to help you get human-like content. Humanize your AI-generated content with Free credits available. |
-| [AI Humanizer Pro](https://chatgpt.com/g/g-TiS7zU3kO-ai-humanizer-pro) | Best AI humanizer to help you get 100% human score. Humanize your AI-generated content maintaining content meaning and quality intact. FREE credits & Multiple languages support available. |
-| [Academic Assistant Pro](https://chatgpt.com/g/g-UubB08D4y-academic-assistant-pro) | Professional academic assistant with a professorial touch. |
+| Name | Cost | Description |
+| --- | --- | --- |
+| [Grammarly AI Writer](https://www.grammarly.com/ai-writer) |  | Grammarly’s free AI content writer simplifies the process of creating high-quality content quickly and efficiently. |
+| [Write For Me](https://chatgpt.com/g/g-B3hgivKK9-write-for-me) | Available for free users with limited access; account required. \<GPTs\> | Write tailored, engaging content with a focus on quality, relevance and precise word count. |
+| [Creative Writing Coach](https://chatgpt.com/g/g-lN1gKFnvL-creative-writing-coach) | Available for free users with limited access; account required. \<GPTs\> | I'm eager to read your work and give you feedback to improve your skills. |
+| [AI Humanizer](https://chatgpt.com/g/g-2azCVmXdy-ai-humanizer) | Available for free users with limited access; account required. \<GPTs\> | #1 AI humanizer in the world \| Get human-like content in seconds. This GPT humanizes AI-generated text with FREE credits available, maintaining content meaning and quality. |
+| [Humanize AI](https://chatgpt.com/g/g-a6Fpz8NRb-humanize-ai) | Available for free users with limited access; account required. \<GPTs\> | Top 1 AI humanizer to help you get human-like content. Humanize your AI-generated content with Free credits available. |
+| [AI Humanizer Pro](https://chatgpt.com/g/g-TiS7zU3kO-ai-humanizer-pro) | Available for free users with limited access; account required. \<GPTs\> | Best AI humanizer to help you get 100% human score. Humanize your AI-generated content maintaining content meaning and quality intact. FREE credits & Multiple languages support available. |
+| [Academic Assistant Pro](https://chatgpt.com/g/g-UubB08D4y-academic-assistant-pro) | Available for free users with limited access; account required. \<GPTs\> | Professional academic assistant with a professorial touch. |
 
 ### Editing
-| Name | Description |
-| --- | --- |
-| [The Spear](https://thespear.org/) | 0 AI Detection. The Spear can help you rewrite and optimize English papers Perfectly bypass plagiarism + AI detection. |
-| [undetectable AI](https://undetectable.ai/) | Advanced AI Detector and Humanizer. |
-| [Grammar](https://chatgpt.com/g/g-HVeXQJWBN-grammar) | Fix grammar mistakes in your text. Works with all languages. |
+| Name | Cost | Description |
+| --- | --- | --- |
+| [The Spear](https://thespear.org/) |  | 0 AI Detection. The Spear can help you rewrite and optimize English papers Perfectly bypass plagiarism + AI detection. |
+| [undetectable AI](https://undetectable.ai/) |  | Advanced AI Detector and Humanizer. |
+| [Grammar](https://chatgpt.com/g/g-HVeXQJWBN-grammar) | Available for free users with limited access; account required. \<GPTs\> | Fix grammar mistakes in your text. Works with all languages. |
 
 
 ## Learning and Studying
