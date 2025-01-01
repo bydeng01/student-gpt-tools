@@ -95,22 +95,22 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 
 ## Research Assistance
 
-| Name | Description |
-| --- | --- |
-| [GPT 学术优化 (GPT Academic)](https://github.com/binary-husky/gpt_academic)<br> [![GitHub Repo](https://img.shields.io/badge/Repo-gpt_academic-blue)](https://github.com/binary-husky/gpt_academic) [![GitHub stars](https://img.shields.io/github/stars/binary-husky/gpt_academic.svg?style=social&label=Star)](https://github.com/binary-husky/gpt_academic) | 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入[通义千问](https://tongyi.aliyun.com/), [deepseekcoder](https://www.deepseek.com/), [讯飞星火](https://xinghuo.xfyun.cn/), [文心一言](https://yiyan.baidu.com/), llama2, rwkv, claude2, moss等。 |
-| [SCISPACE](https://typeset.io/) | All-in-one AI tools for students and researchers. |
-| [MedPeer](https://product.medpeer.cn/product/index/product) | Comprehensive access to tools and databases for academic writing， scientific plotting, machine translation, scientific communication, and scientific literature, making research easier. 一站式访问论文写作、科研绘图、机器翻译、科学对话、科技文献等工具和数据库，让科研变得更简单。|
+| Name | Cost | Description |
+| --- | --- | --- |
+| [GPT 学术优化 (GPT Academic)](https://github.com/binary-husky/gpt_academic)<br> [![GitHub Repo](https://img.shields.io/badge/Repo-gpt_academic-blue)](https://github.com/binary-husky/gpt_academic) [![GitHub stars](https://img.shields.io/github/stars/binary-husky/gpt_academic.svg?style=social&label=Star)](https://github.com/binary-husky/gpt_academic) |  |为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入[通义千问](https://tongyi.aliyun.com/), [deepseekcoder](https://www.deepseek.com/), [讯飞星火](https://xinghuo.xfyun.cn/), [文心一言](https://yiyan.baidu.com/), llama2, rwkv, claude2, moss等。 |
+| [SCISPACE](https://typeset.io/) | Both free and paid options; guest access allowed. |All-in-one AI tools for students and researchers. |
+| [MedPeer](https://product.medpeer.cn/product/index/product) |  | Comprehensive access to tools and databases for academic writing， scientific plotting, machine translation, scientific communication, and scientific literature, making research easier. 一站式访问论文写作、科研绘图、机器翻译、科学对话、科技文献等工具和数据库，让科研变得更简单。|
 
 ### Literature Review and Reading
 | Name | Cost| Description |
 | --- | --- | --- |
 | [Scholar GPT](https://chatgpt.com/g/g-kZ0eYXlJe-scholar-gpt) | Available for free users with limited access; account required. | Enhance research with 200M+ resources and built-in critical reading skills. Access Google Scholar, PubMed, JSTOR, Arxiv, and more, effortlessly. |
 | [Consensus](https://chatgpt.com/g/g-bo0FiWLY7-consensus) | Available for free users with limited access; account required. | Ask the research, chat directly with the world's scientific literature. Search references, get simple explanations, write articles backed by academic papers. |
-| [AMiner - AI赋能科技情报挖掘-学术搜索-论文检索-论文专利](https://www.aminer.cn/) |  | A novel online academic search and mining system. |
-| [OpenRead](https://www.openread.academy/) |  | AI-powered academic searching and web searching - Over 300 million papers and real-time web content.|
-| [R Discovery](https://discovery.researcher.life/)| | #1 AI tool for literature search. |
+| [AMiner - AI赋能科技情报挖掘-学术搜索-论文检索-论文专利](https://www.aminer.cn/) | Unlimited searches; premium features (ChatPaper ...) available for registered users | A novel online academic search and mining system. |
+| [OpenRead](https://www.openread.academy/) | Available for free users with limited access; account required. | AI-powered academic searching and web searching - Over 300 million papers and real-time web content.|
+| [R Discovery](https://discovery.researcher.life/)| Both free and paid options; account required. | #1 AI tool for literature search. |
 | [ResearchFlow](https://rflow.ai/) |  | ResearchFlow is an AI-powered research engine that empowers you to dive deep, connect ideas, and amplify your research with our visual mind maps.|
-| [Elicit](https://elicit.com/?redirected=true) |  | Automate time-consuming research tasks like summarizing papers, extracting data, and synthesizing your findings. |
+| [Elicit](https://elicit.com/?redirected=true) | Available for free users with limited access; account required. | Automate time-consuming research tasks like summarizing papers, extracting data, and synthesizing your findings. |
 | [SciSpace](https://chatgpt.com/g/g-NgAcklHd8-scispace) | Available for free users with limited access; account required. | Do hours worth of research in minutes. Instantly access 287M+ papers, analyze papers at lightning speed, and effortlessly draft content with accurate citations. |
 | [ReadPaper](https://readpaper.com/new)|  | An AI-powered research tool integrating translation, reading, search, and management functions. 集翻译、阅读、搜索、管理等于一体的 AI 科研神器。 |
 | [SEMANTIC SCHOLAR](https://www.semanticscholar.org/) |  | A free, AI-powered research tool for scientific literature. |
