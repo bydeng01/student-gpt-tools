@@ -102,24 +102,24 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 | [MedPeer](https://product.medpeer.cn/product/index/product) | Comprehensive access to tools and databases for academic writing， scientific plotting, machine translation, scientific communication, and scientific literature, making research easier. 一站式访问论文写作、科研绘图、机器翻译、科学对话、科技文献等工具和数据库，让科研变得更简单。|
 
 ### Literature Review and Reading
-| Name | Description |
-| --- | --- |
-| [Scholar GPT](https://chatgpt.com/g/g-kZ0eYXlJe-scholar-gpt) | Enhance research with 200M+ resources and built-in critical reading skills. Access Google Scholar, PubMed, JSTOR, Arxiv, and more, effortlessly. |
-| [Consensus](https://chatgpt.com/g/g-bo0FiWLY7-consensus) | Ask the research, chat directly with the world's scientific literature. Search references, get simple explanations, write articles backed by academic papers. |
-| [AMiner - AI赋能科技情报挖掘-学术搜索-论文检索-论文专利](https://www.aminer.cn/) | A novel online academic search and mining system. |
-| [OpenRead](https://www.openread.academy/) | AI-powered academic searching and web searching - Over 300 million papers and real-time web content.|
-| [R Discovery](https://discovery.researcher.life/) | #1 AI tool for literature search. |
-| [ResearchFlow](https://rflow.ai/) | ResearchFlow is an AI-powered research engine that empowers you to dive deep, connect ideas, and amplify your research with our visual mind maps.|
-| [Elicit](https://elicit.com/?redirected=true) | Automate time-consuming research tasks like summarizing papers, extracting data, and synthesizing your findings. |
-| [SciSpace](https://chatgpt.com/g/g-NgAcklHd8-scispace) | Do hours worth of research in minutes. Instantly access 287M+ papers, analyze papers at lightning speed, and effortlessly draft content with accurate citations. |
-| [ReadPaper](https://readpaper.com/new) | An AI-powered research tool integrating translation, reading, search, and management functions. 集翻译、阅读、搜索、管理等于一体的 AI 科研神器。 |
-| [SEMANTIC SCHOLAR](https://www.semanticscholar.org/) | A free, AI-powered research tool for scientific literature. |
-| [Scholar AI](https://chatgpt.com/g/g-L2HknCZTC-scholar-ai) | AI Research Assistant — search and review 200M+ scientific papers, patents, and books. Research literature, discover insights, and generate new ideas. |
-| [liner](https://getliner.com/) | Best AI search engine for students and researchers trusted by over 10 million people. |
-| [Keenious](https://keenious.com/) | Find research relevant to any text. |
-| [Connected Papers](https://www.connectedpapers.com/) | Get a visual overview of a new academic field. Make sure you haven't missed an important paper. Create the bibliography for your thesis. Discover the most relevant prior and derivative works.  |
-| [AI PDF Drive: Chat, Create, Organize](https://chatgpt.com/g/g-V2KIUZSj0-ai-pdf-drive-chat-create-organize) | The ultimate document assistant. Upload and chat with all your files, create polished PDFs (presentations, reports, resumes, letters) right from the GPT. |
-| [PDF Reader](https://chatgpt.com/g/g-QSh6KHL3S-pdf-reader) | In-depth interaction with PDF content. |
+| Name | Cost| Description |
+| --- | --- | --- |
+| [Scholar GPT](https://chatgpt.com/g/g-kZ0eYXlJe-scholar-gpt) | Available for free users with limited access; account required. | Enhance research with 200M+ resources and built-in critical reading skills. Access Google Scholar, PubMed, JSTOR, Arxiv, and more, effortlessly. |
+| [Consensus](https://chatgpt.com/g/g-bo0FiWLY7-consensus) | Available for free users with limited access; account required. | Ask the research, chat directly with the world's scientific literature. Search references, get simple explanations, write articles backed by academic papers. |
+| [AMiner - AI赋能科技情报挖掘-学术搜索-论文检索-论文专利](https://www.aminer.cn/) |  | A novel online academic search and mining system. |
+| [OpenRead](https://www.openread.academy/) |  | AI-powered academic searching and web searching - Over 300 million papers and real-time web content.|
+| [R Discovery](https://discovery.researcher.life/)| | #1 AI tool for literature search. |
+| [ResearchFlow](https://rflow.ai/) |  | ResearchFlow is an AI-powered research engine that empowers you to dive deep, connect ideas, and amplify your research with our visual mind maps.|
+| [Elicit](https://elicit.com/?redirected=true) |  | Automate time-consuming research tasks like summarizing papers, extracting data, and synthesizing your findings. |
+| [SciSpace](https://chatgpt.com/g/g-NgAcklHd8-scispace) | Available for free users with limited access; account required. | Do hours worth of research in minutes. Instantly access 287M+ papers, analyze papers at lightning speed, and effortlessly draft content with accurate citations. |
+| [ReadPaper](https://readpaper.com/new)|  | An AI-powered research tool integrating translation, reading, search, and management functions. 集翻译、阅读、搜索、管理等于一体的 AI 科研神器。 |
+| [SEMANTIC SCHOLAR](https://www.semanticscholar.org/) |  | A free, AI-powered research tool for scientific literature. |
+| [Scholar AI](https://chatgpt.com/g/g-L2HknCZTC-scholar-ai) | Available for free users with limited access; account required.| AI Research Assistant — search and review 200M+ scientific papers, patents, and books. Research literature, discover insights, and generate new ideas. |
+| [liner](https://getliner.com/) |  | Best AI search engine for students and researchers trusted by over 10 million people. |
+| [Keenious](https://keenious.com/) |  | Find research relevant to any text. |
+| [Connected Papers](https://www.connectedpapers.com/) |  | Get a visual overview of a new academic field. Make sure you haven't missed an important paper. Create the bibliography for your thesis. Discover the most relevant prior and derivative works.  |
+| [AI PDF Drive: Chat, Create, Organize](https://chatgpt.com/g/g-V2KIUZSj0-ai-pdf-drive-chat-create-organize) |Available for free users with limited access; account required. | The ultimate document assistant. Upload and chat with all your files, create polished PDFs (presentations, reports, resumes, letters) right from the GPT. |
+| [PDF Reader](https://chatgpt.com/g/g-QSh6KHL3S-pdf-reader) | Available for free users with limited access; account required. | In-depth interaction with PDF content. |
 
 ### Data Analysis
 | Name | Description |
