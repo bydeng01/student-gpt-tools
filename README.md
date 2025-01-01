@@ -36,6 +36,7 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 - [AI for Grant Writing](https://github.com/eseckel/ai-for-grant-writing)
 - [ChatGPT Prompts for Academic Writing](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing)
 - [Best ChatGPT Prompts for Academic Writing (100+ Prompts!)](https://www.papertrue.com/blog/chatgpt-prompts-for-academic-writing/)
+- [Three ways ChatGPT helps me in my academic writing](https://www.nature.com/articles/d41586-024-01042-3)
 
 
 ### Writing
