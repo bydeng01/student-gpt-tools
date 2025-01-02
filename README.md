@@ -136,6 +136,7 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 | --- | --- | --- |
 | [GitHub Copilot](https://github.com/features/copilot)|  | Available for free to [verified students](https://github.com/education/students). The Al editor for everyone. |
 | [Cursor](https://www.cursor.com/) |  | A code editor built for programming with AI. |
+| [Blackbox AI](https://www.blackbox.ai/) | Free and no signup required. | #1 coding agent +10 million developers, conversational. |
 | [Code Copilot](https://chatgpt.com/g/g-2DQzU5UZl-code-copilot) | Available for free users with limited access; account required. \<GPTs\> |Code Smarter, Build Faster—With the Expertise of a 10x Programmer by Your Side. |
 | [Code GPT Python Java C HTML Javascript & more](https://chatgpt.com/g/g-cksUvVWar-code-gpt-python-java-c-html-javascript-more) | Available for free users with limited access; account required. \<GPTs\> | The worlds most powerful coding assistant. [$PULSR](https://pulsr.co.uk/) |
 | [Code](https://chatgpt.com/g/g-k3IqoCe1l-code) | Available for free users with limited access; account required. \<GPTs\> | Reviews code, generates and optimizes functions, writes tests, and adds comments for existing code. |
@@ -182,6 +183,7 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 |Illinois Institute of Technology|[Artificial intelligence tools for research](https://guides.library.iit.edu/c.php?g=1309383&p=9671785)| IL, USA|
 |Syracuse University|[Guidance on using AI tools](https://researchguides.library.syr.edu/AI)|NY, USA|
 | University of Buffalo | [Artificial Intelligence (AI) Research Tools](https://research.lib.buffalo.edu/ai-researchtools/toolstable) | NY, USA |
+| University of Pennsylvania | [AI Tools and Best Practices: Intro to AI / AI Tools](https://guides.library.upenn.edu/c.php?g=1396992&p=10333680) | PA, USA |
 | Temple University | [AI Tools for Research](https://guides.temple.edu/ai-research-tools/databases) | PA, USA |
 |Virginia Tech University|[AI: Tips & Tools](https://guides.lib.vt.edu/ai/home)|VA, USA|
 |University of Nevada, Reno|[AI for Research: AI Research Tools](https://guides.library.unr.edu/generative-ai/tools)|NV, USA|
