@@ -185,6 +185,7 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 |Syracuse University|[Guidance on using AI tools](https://researchguides.library.syr.edu/AI)|NY, USA|
 | University of Buffalo | [Artificial Intelligence (AI) Research Tools](https://research.lib.buffalo.edu/ai-researchtools/toolstable) | NY, USA |
 | University of Pennsylvania | [AI Tools and Best Practices: Intro to AI / AI Tools](https://guides.library.upenn.edu/c.php?g=1396992&p=10333680) | PA, USA |
+| Pennsylvania State University | [Generative AI: ChatGPT and Beyond](https://guides.libraries.psu.edu/LLMs) | PA, USA |
 | Temple University | [AI Tools for Research](https://guides.temple.edu/ai-research-tools/databases) | PA, USA |
 |Virginia Tech University|[AI: Tips & Tools](https://guides.lib.vt.edu/ai/home)|VA, USA|
 |University of Nevada, Reno|[AI for Research: AI Research Tools](https://guides.library.unr.edu/generative-ai/tools)|NV, USA|
