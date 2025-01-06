@@ -115,7 +115,7 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 | [Elicit](https://elicit.com/?redirected=true) | Available for free users with limited access; account required. | Automate time-consuming research tasks like summarizing papers, extracting data, and synthesizing your findings. |
 | [SciSpace](https://chatgpt.com/g/g-NgAcklHd8-scispace) | Available for free users with limited access; account required. \<GPTs\> | Do hours worth of research in minutes. Instantly access 287M+ papers, analyze papers at lightning speed, and effortlessly draft content with accurate citations. |
 | [ReadPaper](https://readpaper.com/new)|  | An AI-powered research tool integrating translation, reading, search, and management functions. 集翻译、阅读、搜索、管理等于一体的 AI 科研神器。 |
-| [SEMANTIC SCHOLAR](https://www.semanticscholar.org/) |  | A free, AI-powered research tool for scientific literature. |
+| [SEMANTIC SCHOLAR](https://www.semanticscholar.org/) | Free; guest access allowed. | AI-powered research tool for scientific literature. |
 | [Scholar AI](https://chatgpt.com/g/g-L2HknCZTC-scholar-ai) | Available for free users with limited access; account required. \<GPTs\>| AI Research Assistant — search and review 200M+ scientific papers, patents, and books. Research literature, discover insights, and generate new ideas. |
 | [liner](https://getliner.com/) | Both free (unlimited AI agent calls) and paid options; guest access allowed. | Best AI search engine for students and researchers trusted by over 10 million people. |
 | [Keenious](https://keenious.com/) | Both free (limited results and analysis) and paid options; guest access allowed. | Find research relevant to any text. |
