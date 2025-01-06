@@ -54,8 +54,8 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 ### Editing
 | Name | Cost | Description |
 | --- | --- | --- |
-| [The Spear](https://thespear.org/) |  | 0 AI Detection. The Spear can help you rewrite and optimize English papers Perfectly bypass plagiarism + AI detection. |
-| [undetectable AI](https://undetectable.ai/) |  | Advanced AI Detector and Humanizer. |
+| [The Spear](https://thespear.org/) | Complimentary 500 Spear credits after signing up; account required. | 0 AI Detection. The Spear can help you rewrite and optimize English papers Perfectly bypass plagiarism + AI detection. 帮助你改写和优化英文论文,完美绕过抄袭 + AI 检测。 |
+| [undetectable AI](https://undetectable.ai/) | Paid plans; account required. | Advanced AI Detector and Humanizer. |
 | [Grammar](https://chatgpt.com/g/g-HVeXQJWBN-grammar) | Available for free users with limited access; account required. \<GPTs\> | Fix grammar mistakes in your text. Works with all languages. |
 
 
