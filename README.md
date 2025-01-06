@@ -108,7 +108,7 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 | --- | --- | --- |
 | [Scholar GPT](https://chatgpt.com/g/g-kZ0eYXlJe-scholar-gpt) | Available for free users with limited access; account required. \<GPTs\> | Enhance research with 200M+ resources and built-in critical reading skills. Access Google Scholar, PubMed, JSTOR, Arxiv, and more, effortlessly. |
 | [Consensus](https://chatgpt.com/g/g-bo0FiWLY7-consensus) | Available for free users with limited access; account required. \<GPTs\> | Ask the research, chat directly with the world's scientific literature. Search references, get simple explanations, write articles backed by academic papers. |
-| [AMiner - AI赋能科技情报挖掘-学术搜索-论文检索-论文专利](https://www.aminer.cn/) | Unlimited searches; premium features (ChatPaper ...) available for registered users. | A novel online academic search and mining system. |
+| [AMiner](https://www.aminer.cn/) | Unlimited searches; premium features (ChatPaper ...) available for registered users. | A novel online academic search and mining system. AI赋能科技情报挖掘、学术搜索、论文检索、论文专利 ... |
 | [OpenRead](https://www.openread.academy/) | Available for free users with limited access; account required. | AI-powered academic searching and web searching - Over 300 million papers and real-time web content.|
 | [R Discovery](https://discovery.researcher.life/)| Both free and paid options; account required. | #1 AI tool for literature search. |
 | [ResearchFlow](https://rflow.ai/) |  | ResearchFlow is an AI-powered research engine that empowers you to dive deep, connect ideas, and amplify your research with our visual mind maps.|
