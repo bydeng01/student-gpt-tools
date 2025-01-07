@@ -64,6 +64,7 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 ### General Study
 | Name | Cost| Description |
 | --- | --- | ---|
+｜ [Learn About](https://learning.google.com/experiments/learn-about/signup) ｜ Currently free; account required. ｜ Grasp new topics and deepen your understanding with a conversational learning companion that adapts to your unique curiosity and learning goals, from [Google Learning](https://learning.google/). ｜
 |[StudyX](https://studyx.ai/)|  | Get quick, reliable solutions across subjects.|
 |[Tutor Me](https://chatgpt.com/g/g-hRCqiqVlM-tutor-me)| Available for free users with limited access; account required. \<GPTs\> | Your personal AI tutor by [Khan Academy](https://www.khanacademy.org/)! I'm Khanmigo Lite - here to help you with math, science, and humanities questions. I won’t do your work for you, but I will help you learn how to solve them on your own.|
 |[Universal Primer](https://chatgpt.com/g/g-GbLbctpPz-universal-primer) | Available for free users with limited access; account required. \<GPTs\> | The fastest way to learn anything hard.|
