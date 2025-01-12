@@ -100,6 +100,7 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 
 | Name | Cost | Description |
 | --- | --- | --- |
+| [Perplexity](https://www.perplexity.ai/) | Both free and paid options; guest access allowed. | AI-powered answer engine that provides accurate, trusted, and real-time answers to any question. |
 | [PagePeek](https://pagepeek.ai/) | Both free and paid options; account required. | All-in-One office suite powered by AI. |
 | [GPT 学术优化 (GPT Academic)](https://github.com/binary-husky/gpt_academic)<br> [![GitHub Repo](https://img.shields.io/badge/Repo-gpt_academic-blue)](https://github.com/binary-husky/gpt_academic) [![GitHub stars](https://img.shields.io/github/stars/binary-husky/gpt_academic.svg?style=social&label=Star)](https://github.com/binary-husky/gpt_academic) | Free (open-source) |为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入[通义千问](https://tongyi.aliyun.com/), [deepseekcoder](https://www.deepseek.com/), [讯飞星火](https://xinghuo.xfyun.cn/), [文心一言](https://yiyan.baidu.com/), llama2, rwkv, claude2, moss等。 |
 | [SCISPACE](https://typeset.io/) | Both free and paid options; guest access allowed. |All-in-one AI tools for students and researchers. |
