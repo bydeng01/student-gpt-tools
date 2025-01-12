@@ -140,7 +140,7 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 | Name | Cost | Description |
 | --- | --- | --- |
 | [GitHub Copilot](https://github.com/features/copilot)| Both free and paid options; free to [verified students](https://github.com/education/students); account required. | The Al editor for everyone. |
-| [Cursor](https://www.cursor.com/) |  | A code editor built for programming with AI. |
+| [Cursor](https://www.cursor.com/) | Both free and paid options; account required. | A code editor built for programming with AI. |
 | [Blackbox AI](https://www.blackbox.ai/) | Free and no signup required. | #1 coding agent +10 million developers, conversational. |
 | [Code Copilot](https://chatgpt.com/g/g-2DQzU5UZl-code-copilot) | Available for free users with limited access; account required. \<GPTs\> |Code Smarter, Build Faster—With the Expertise of a 10x Programmer by Your Side. |
 | [Code GPT Python Java C HTML Javascript & more](https://chatgpt.com/g/g-cksUvVWar-code-gpt-python-java-c-html-javascript-more) | Available for free users with limited access; account required. \<GPTs\> | The worlds most powerful coding assistant. [$PULSR](https://pulsr.co.uk/) |
