@@ -42,7 +42,7 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 ### Writing
 | Name | Cost | Description |
 | --- | --- | --- |
-| [Grammarly AI Writer](https://www.grammarly.com/ai-writer) |  | Grammarly’s free AI content writer simplifies the process of creating high-quality content quickly and efficiently. |
+| [Grammarly AI Writer](https://www.grammarly.com/ai-writer) | Both free and paid options; account required. | Simplifies the process of creating high-quality content quickly and efficiently. |
 | [Co-STORM](https://storm.genie.stanford.edu/) | Free; account required. | Get a Wikipedia-like report on your topic with AI, from Stanford University. |
 | [Write For Me](https://chatgpt.com/g/g-B3hgivKK9-write-for-me) | Available for free users with limited access; account required. \<GPTs\> | Write tailored, engaging content with a focus on quality, relevance and precise word count. |
 | [Creative Writing Coach](https://chatgpt.com/g/g-lN1gKFnvL-creative-writing-coach) | Available for free users with limited access; account required. \<GPTs\> | I'm eager to read your work and give you feedback to improve your skills. |
@@ -100,6 +100,7 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 
 | Name | Cost | Description |
 | --- | --- | --- |
+| [PagePeek](https://pagepeek.ai/) | Both free and paid options; account required. | All-in-One office suite powered by AI. |
 | [GPT 学术优化 (GPT Academic)](https://github.com/binary-husky/gpt_academic)<br> [![GitHub Repo](https://img.shields.io/badge/Repo-gpt_academic-blue)](https://github.com/binary-husky/gpt_academic) [![GitHub stars](https://img.shields.io/github/stars/binary-husky/gpt_academic.svg?style=social&label=Star)](https://github.com/binary-husky/gpt_academic) | Free (open-source) |为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入[通义千问](https://tongyi.aliyun.com/), [deepseekcoder](https://www.deepseek.com/), [讯飞星火](https://xinghuo.xfyun.cn/), [文心一言](https://yiyan.baidu.com/), llama2, rwkv, claude2, moss等。 |
 | [SCISPACE](https://typeset.io/) | Both free and paid options; guest access allowed. |All-in-one AI tools for students and researchers. |
 | [MedPeer](https://product.medpeer.cn/product/index/product) | Free trial; account required. | Comprehensive access to tools and databases for academic writing， scientific plotting, machine translation, scientific communication, and scientific literature, making research easier. 一站式访问论文写作、科研绘图、机器翻译、科学对话、科技文献等工具和数据库，让科研变得更简单。|
