@@ -195,6 +195,7 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 | Vanderbilt University | [AI Research Tools](https://researchguides.library.vanderbilt.edu/c.php?g=1416372&p=10506261) | TN, USA |
 | Northwestern University | [Using AI Tools in Your Research](https://libguides.northwestern.edu/ai-tools-research) | IL, USA  |
 |Illinois Institute of Technology|[Artificial intelligence tools for research](https://guides.library.iit.edu/c.php?g=1309383&p=9671785)| IL, USA|
+| New York University | [Generative AI and Large Language Models (LLMs)](https://guides.nyu.edu/c.php?g=1307730&p=9611411) | NY, USA |
 |Syracuse University|[Guidance on using AI tools](https://researchguides.library.syr.edu/AI)|NY, USA|
 | University of Buffalo | [Artificial Intelligence (AI) Research Tools](https://research.lib.buffalo.edu/ai-researchtools/toolstable) | NY, USA |
 | University of Pennsylvania | [AI Tools and Best Practices: Intro to AI / AI Tools](https://guides.library.upenn.edu/c.php?g=1396992&p=10333680) | PA, USA |
