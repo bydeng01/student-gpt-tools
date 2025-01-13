@@ -110,6 +110,7 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 ### Literature Review and Reading
 | Name | Cost| Description |
 | --- | --- | --- |
+| [ResearchRabbit](https://www.researchrabbit.ai/) | Free forever; account required. | The most powerful discovery app ever built for researchers, integrating with [Zotero](https://www.zotero.org/). |
 | [Scholar GPT](https://chatgpt.com/g/g-kZ0eYXlJe-scholar-gpt) | Available for free users with limited access; account required. \<GPTs\> | Enhance research with 200M+ resources and built-in critical reading skills. Access Google Scholar, PubMed, JSTOR, Arxiv, and more, effortlessly. |
 | [Consensus](https://chatgpt.com/g/g-bo0FiWLY7-consensus) | Available for free users with limited access; account required. \<GPTs\> | Ask the research, chat directly with the world's scientific literature. Search references, get simple explanations, write articles backed by academic papers. |
 | [AMiner](https://www.aminer.cn/) | Unlimited searches; premium features (ChatPaper ...) available for registered users. | A novel online academic search and mining system. AI赋能科技情报挖掘、学术搜索、论文检索、论文专利 ... |
