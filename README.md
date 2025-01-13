@@ -24,7 +24,9 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 
 4. [Coding and Debugging](#coding-and-debugging)
 
-5. [Creative Projects](#creative-projects)
+5. [Creativity and Visual Thinking](#creativity-and-visual-thinking)
+   - [Brainstorming](#brainstorming)
+   - [Flowcharts and Mindmaps](#flowcharts-and-mindmaps)
 
 6. [Institutional AI Guides and Research Resources](#institutional-ai-guides-and-research-resources)
 
@@ -160,12 +162,17 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 | [Oracle SQL](https://chatgpt.com/g/g-Y7qmkJ6ss-oracle-sql) | Available for free users with limited access; account required. \<GPTs\> | Your personal Oracle SQL assistant and query generator. |
 
 
-## Creative Projects
+## Creativity and Visual Thinking
 
+### Brainstorming
 | Name | Cost| Description |
 | --- | --- | --- |
 | [Creative Idea Generator \| Innovator \| Brainstorm](https://chatgpt.com/g/g-5Sf8R1RYG-creative-idea-generator-innovator-brainstorm) | Available for free users with limited access; account required. \<GPTs\> | OneUp is an AI tool designed to spark creativity and solve problems across all areas of life. |
 | [Idea Generator - BRAINSTORMER v2](https://chatgpt.com/g/g-giwg7w8Hv-idea-generator-brainstormer-v2) | Available for free users with limited access; account required. \<GPTs\> | Stunspot's ideation generator! Ideas for days! |
+
+### Flowcharts and Mindmaps
+| Name | Cost| Description |
+| --- | --- | --- |
 | [Diagrams: Flowcharts & Mindmaps](https://chatgpt.com/g/g-jBdvgesNC-diagrams-flowcharts-mindmaps) | Available for free users with limited access; account required. \<GPTs\> | Infographics & visualization; diagrams, charts + analysis; for code: database, ux, erd, plantuml! for business & data analysis: flowchart, timeline & more! |
 | [Flow Chart Genius](https://chatgpt.com/g/g-uVn4O2oB4-flow-chart-genius) | Available for free users with limited access; account required. \<GPTs\> | I create flow charts to explain connections. |
 | [流程图大师 Flowchart Master](https://chatgpt.com/g/g-yxGozSRry-liu-cheng-tu-da-shi-flowchart-master) | Available for free users with limited access; account required. \<GPTs\> | Guide users in creating flowcharts in a friendly and professional manner. |
