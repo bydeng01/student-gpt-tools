@@ -118,6 +118,8 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 | [AMiner](https://www.aminer.cn/) | Unlimited searches; premium features (ChatPaper ...) available for registered users. | A novel online academic search and mining system. AI赋能科技情报挖掘、学术搜索、论文检索、论文专利 ... |
 | [OpenRead](https://www.openread.academy/) | Available for free users with limited access; account required. | AI-powered academic searching and web searching - Over 300 million papers and real-time web content.|
 | [R Discovery](https://discovery.researcher.life/)| Both free and paid options; account required. | #1 AI tool for literature search. |
+| [Undermind](https://www.undermind.ai/home/) | Both free and paid options; account required. | AI assistant carefully reads hundreds of academic papers, finding exactly what you need. |
+| [scite_](https://scite.ai/) | Paid; account required. | Ask AI Assistant or search the literature to transform the way you discover, evaluate, and understand research on any topic. |
 | [ResearchFlow](https://rflow.ai/) | Both free and paid options; account required. | ResearchFlow is an AI-powered research engine that empowers you to dive deep, connect ideas, and amplify your research with our visual mind maps.|
 | [Elicit](https://elicit.com/?redirected=true) | Available for free users with limited access; account required. | Automate time-consuming research tasks like summarizing papers, extracting data, and synthesizing your findings. |
 | [SciSpace](https://chatgpt.com/g/g-NgAcklHd8-scispace) | Available for free users with limited access; account required. \<GPTs\> | Do hours worth of research in minutes. Instantly access 287M+ papers, analyze papers at lightning speed, and effortlessly draft content with accurate citations. |
