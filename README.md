@@ -138,6 +138,7 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 ### Data Analysis
 | Name | Cost | Description |
 | --- | --- | --- |
+| [Power BI](https://www.microsoft.com/en-us/power-platform/products/power-bi) | Both free and paid options; Microsoft account required. | Find insights in your data and share rich analytics reports, from Microsoft. |
 | [Excel AI](https://chatgpt.com/g/g-R6VqLNHFM-excel-ai) | Available for free users with limited access; account required. \<GPTs\> | The worlds most powerful data analysis assistant. |
 | [Data Analyst](https://chatgpt.com/g/g-HMNcP6w7d-data-analyst) | Available for free users with limited access; account required. \<GPTs\> | Drop in any files and I can help analyze and visualize your data. |
 | [Data Analysis - SPSS](https://chatgpt.com/g/g-Zr8z65jea-data-analysis-spss) | Available for free users with limited access; account required. \<GPTs\> | Expert in statistical analysis and SPSS, guiding researchers. |
