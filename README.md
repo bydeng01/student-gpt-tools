@@ -185,6 +185,7 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 ## Institutional AI Guides and Research Resources
 | University | Title | Region |
 | --- | --- | --- |
+| MIT | [Generative Al for Teaching \& Learning](https://mitsloanedtech.mit.edu/ai/) | MA, USA |
 | Duke University | [Artificial Intelligence (AI) tools for literature reviews](https://guides.library.duke.edu/litreviews/AI)| NC, USA |
 | University of North Carolina at Chapel Hill | [Artificial Intelligence and Generative AI for Media & Journalism: Libraries and AI](https://guides.lib.unc.edu/generativeAI/ai-libraries) | NC, USA |
 | North Carolina State University | [AI Research and Instruction Guide](https://www.lib.ncsu.edu/guides/artificial-intelligence/research) | NC, USA |
