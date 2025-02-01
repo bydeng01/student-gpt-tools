@@ -126,6 +126,7 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 | [SciSpace](https://chatgpt.com/g/g-NgAcklHd8-scispace) | Available for free users with limited access; account required. \<GPTs\> | Do hours worth of research in minutes. Instantly access 287M+ papers, analyze papers at lightning speed, and effortlessly draft content with accurate citations. |
 | [ReadPaper](https://readpaper.com/new)| Both free and paid options; account required. | An AI-powered research tool integrating translation, reading, search, and management functions. 集翻译、阅读、搜索、管理等于一体的 AI 科研神器。 |
 | [SEMANTIC SCHOLAR](https://www.semanticscholar.org/) | Free; guest access allowed. | AI-powered research tool for scientific literature. |
+| [Scholarcy](https://www.scholarcy.com/) | Both free and paid options; account required. | Summarize, analyze and organize your research. |
 | [Scholar AI](https://chatgpt.com/g/g-L2HknCZTC-scholar-ai) | Available for free users with limited access; account required. \<GPTs\>| AI Research Assistant — search and review 200M+ scientific papers, patents, and books. Research literature, discover insights, and generate new ideas. |
 | [liner](https://getliner.com/) | Both free (unlimited AI agent calls) and paid options; guest access allowed. | Best AI search engine for students and researchers trusted by over 10 million people. |
 | [Keenious](https://keenious.com/) | Both free (limited results and analysis) and paid options; guest access allowed. | Find research relevant to any text. |
@@ -187,6 +188,7 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 | Duke University | [Artificial Intelligence (AI) tools for literature reviews](https://guides.library.duke.edu/litreviews/AI)| NC, USA |
 | University of North Carolina at Chapel Hill | [Artificial Intelligence and Generative AI for Media & Journalism: Libraries and AI](https://guides.lib.unc.edu/generativeAI/ai-libraries) | NC, USA |
 | North Carolina State University | [AI Research and Instruction Guide](https://www.lib.ncsu.edu/guides/artificial-intelligence/research) | NC, USA |
+| Johns Hopkins University | [Types of Generative AI Tools Useful for Higher Education](https://teaching.jhu.edu/university-teaching-policies/generative-ai/resources/#types-of-generative-ai-tools-for-higher-education) | MD, USA |
 | University of Maryland | [Artificial Intelligence (AI) and Information Literacy](https://lib.guides.umd.edu/c.php?g=1340355&p=9880565) | MD, USA |
 | University of California, Los Angeles | [Artificial Intelligence (A.I.) Tools and Academic Use](https://guides.library.ucla.edu/c.php?g=1308287&p=9702196) | CA, USA |
 | University of California, Irvine | [AI in Research Guide](https://guides.lib.uci.edu/research_ai/researchtools) | CA, USA |
