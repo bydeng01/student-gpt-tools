@@ -134,6 +134,7 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 | [Connected Papers](https://www.connectedpapers.com/) | Both free (5 graphs per month and all features included) and paid options; guest access allowed. | Get a visual overview of a new academic field. Make sure you haven't missed an important paper. Create the bibliography for your thesis. Discover the most relevant prior and derivative works.  |
 | [AI PDF Drive: Chat, Create, Organize](https://chatgpt.com/g/g-V2KIUZSj0-ai-pdf-drive-chat-create-organize) |Available for free users with limited access; account required. \<GPTs\>| The ultimate document assistant. Upload and chat with all your files, create polished PDFs (presentations, reports, resumes, letters) right from the GPT. |
 | [PDF Reader](https://chatgpt.com/g/g-QSh6KHL3S-pdf-reader) | Available for free users with limited access; account required. \<GPTs\> | In-depth interaction with PDF content. |
+| [PapersGPT](https://github.com/papersgpt/papersgpt-for-zotero) <br> [![GitHub Repo](https://img.shields.io/badge/Repo-papersgpt-blue)](https://github.com/papersgpt/papersgpt-for-zotero) [![GitHub stars](https://img.shields.io/github/stars/papersgpt/papersgpt-for-zotero.svg?style=social&label=Star)](https://github.com/papersgpt/papersgpt-for-zotero) | Free (open-source) | Zotero chat PDF with DeepSeek, GPT, ChatGPT, Claude, Gemini. |
 
 ### Data Analysis
 | Name | Cost | Description |
