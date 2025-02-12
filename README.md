@@ -26,7 +26,7 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 
 5. [Creativity and Visual Thinking](#creativity-and-visual-thinking)
    - [Brainstorming](#brainstorming)
-   - [Flowcharts and Mindmaps](#flowcharts-and-mindmaps)
+   - [Diagram](#diagram)
 
 6. [Institutional AI Guides and Research Resources](#institutional-ai-guides-and-research-resources)
 
@@ -176,9 +176,10 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 | [Creative Idea Generator \| Innovator \| Brainstorm](https://chatgpt.com/g/g-5Sf8R1RYG-creative-idea-generator-innovator-brainstorm) | Available for free users with limited access; account required. \<GPTs\> | OneUp is an AI tool designed to spark creativity and solve problems across all areas of life. |
 | [Idea Generator - BRAINSTORMER v2](https://chatgpt.com/g/g-giwg7w8Hv-idea-generator-brainstormer-v2) | Available for free users with limited access; account required. \<GPTs\> | Stunspot's ideation generator! Ideas for days! |
 
-### Flowcharts and Mindmaps
+### Diagram
 | Name | Cost| Description |
 | --- | --- | --- |
+| [Napkin AI](https://www.napkin.ai/) | Currently free, check [updates](https://www.napkin.ai/pricing/); account required. | Napkin turns your text into visuals so sharing your ideas is quick and effective. |
 | [Diagramming AI](https://diagrammingai.com/) | Both free and paid options; account required. | AI-powered diagram creation, discussion, suggestion, and updates. |
 | [Diagrams: Flowcharts & Mindmaps](https://chatgpt.com/g/g-jBdvgesNC-diagrams-flowcharts-mindmaps) | Available for free users with limited access; account required. \<GPTs\> | Infographics & visualization; diagrams, charts + analysis; for code: database, ux, erd, plantuml! for business & data analysis: flowchart, timeline & more! |
 | [Flow Chart Genius](https://chatgpt.com/g/g-uVn4O2oB4-flow-chart-genius) | Available for free users with limited access; account required. \<GPTs\> | I create flow charts to explain connections. |
