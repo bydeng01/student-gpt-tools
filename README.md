@@ -147,6 +147,7 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 | [Data Analysis - SPSS](https://chatgpt.com/g/g-Zr8z65jea-data-analysis-spss) | Available for free users with limited access; account required. \<GPTs\> | Expert in statistical analysis and SPSS, guiding researchers. |
 | [lida](https://github.com/microsoft/lida?tab=readme-ov-file) <br> [![GitHub Repo](https://img.shields.io/badge/Repo-lida-blue)](https://github.com/microsoft/lida?tab=readme-ov-file) [![GitHub stars](https://img.shields.io/github/stars/microsoft/lida.svg?style=social&label=Star)](https://github.com/microsoft/lida?tab=readme-ov-file) | Free (open-source) | Automatic generation of visualizations and infographics using Large Language Models. |
 | [pandas-ai](https://github.com/sinaptik-ai/pandas-ai)<br> [![GitHub Repo](https://img.shields.io/badge/Repo-lida-blue)](https://github.com/sinaptik-ai/pandas-ai) [![GitHub stars](https://img.shields.io/github/stars/microsoft/lida.svg?style=social&label=Star)](https://github.com/sinaptik-ai/pandas-ai) | Free (open-source) | Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG. |
+| [ChatExcel AI](https://chatexcel.com/#/) | Both free and paid options; account required. | AI can process Excel and perform data analysis just through chatting. 仅通过聊天AI即可处理Excel和数据分析。 |
 
 ## Coding and Debugging
 
