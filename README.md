@@ -148,6 +148,7 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 | [lida](https://github.com/microsoft/lida?tab=readme-ov-file) <br> [![GitHub Repo](https://img.shields.io/badge/Repo-lida-blue)](https://github.com/microsoft/lida?tab=readme-ov-file) [![GitHub stars](https://img.shields.io/github/stars/microsoft/lida.svg?style=social&label=Star)](https://github.com/microsoft/lida?tab=readme-ov-file) | Free (open-source) | Automatic generation of visualizations and infographics using Large Language Models. |
 | [pandas-ai](https://github.com/sinaptik-ai/pandas-ai)<br> [![GitHub Repo](https://img.shields.io/badge/Repo-lida-blue)](https://github.com/sinaptik-ai/pandas-ai) [![GitHub stars](https://img.shields.io/github/stars/microsoft/lida.svg?style=social&label=Star)](https://github.com/sinaptik-ai/pandas-ai) | Free (open-source) | Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG. |
 | [ChatExcel AI](https://chatexcel.com/#/) | Both free and paid options; account required. | AI can process Excel and perform data analysis just through chatting. 仅通过聊天AI即可处理Excel和数据分析。 |
+| [ChatGPT for Excel](https://appsource.microsoft.com/en-my/product/office/WA200005271?tab=Overview) | Paid option only; account required. | AI add-in for Excel. |
 
 ## Coding and Debugging
 
