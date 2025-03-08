@@ -52,7 +52,7 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 | [Humanize AI](https://chatgpt.com/g/g-a6Fpz8NRb-humanize-ai) | Available for free users with limited access; account required. \<GPTs\> | Top 1 AI humanizer to help you get human-like content. Humanize your AI-generated content with Free credits available. |
 | [AI Humanizer Pro](https://chatgpt.com/g/g-TiS7zU3kO-ai-humanizer-pro) | Available for free users with limited access; account required. \<GPTs\> | Best AI humanizer to help you get 100% human score. Humanize your AI-generated content maintaining content meaning and quality intact. FREE credits & Multiple languages support available. |
 | [Academic Assistant Pro](https://chatgpt.com/g/g-UubB08D4y-academic-assistant-pro) | Available for free users with limited access; account required. \<GPTs\> | Professional academic assistant with a professorial touch. |
-| [中国国家自然科学基金写作与指导](https://chatgpt.com/g/g-D4RFTCdWo-zhong-guo-guo-jia-zi-ran-ke-xue-ji-jin-xie-zuo-yu-zhi-dao) | Available for free users with limited access; account required. <GPTs> | Assists with writing proposals for the National Natural Science Foundation of China. |
+| [中国国家自然科学基金写作与指导](https://chatgpt.com/g/g-D4RFTCdWo-zhong-guo-guo-jia-zi-ran-ke-xue-ji-jin-xie-zuo-yu-zhi-dao) | Available for free users with limited access; account required. \<GPTs\> | Assists with writing proposals for the National Natural Science Foundation of China. |
 
 ### Editing
 | Name | Cost | Description |
