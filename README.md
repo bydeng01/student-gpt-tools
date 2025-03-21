@@ -56,12 +56,14 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 | [SurveyX](https://www.surveyx.cn/list)<br> [![GitHub Repo](https://img.shields.io/badge/Repo-surveyx-blue)](https://github.com/IAAR-Shanghai/SurveyX) [![GitHub stars](https://img.shields.io/github/stars/IAAR-Shanghai/SurveyX.svg?style=social&label=Star)](https://github.com/IAAR-Shanghai/SurveyX) | Currently free; account required. | SurveyX is an advanced academic survey automation system that leverages the power of Large Language Models (LLMs) to generate high-quality, domain-specific academic papers and surveys. |
 | [Writely](https://www.writelyai.com/) | Paid plans; account required. | Write more content, faster than ever before and bypass AI detection. |
 | [Rytr](https://rytr.me/) | Both free and paid options; account required. | Your shortcut to original, compelling content. Choose from over 40+ content use cases and templates—from email responses and blog posts to social media ads and everything in between. |
+| [EssayGPT](https://essaygpt.hix.ai/) | Paid plans; account required. | Write, edit, and improve your essay with the best AI essay writing copilot. Research, cite, & check plagiarism easily - all in one place. |
 
 ### Editing
 | Name | Cost | Description |
 | --- | --- | --- |
 | [The Spear](https://thespear.org/) | Complimentary 500 Spear credits after signing up; account required. | 0 AI Detection. The Spear can help you rewrite and optimize English papers Perfectly bypass plagiarism + AI detection. 帮助你改写和优化英文论文,完美绕过抄袭 + AI 检测。 |
 | [undetectable AI](https://undetectable.ai/) | Paid plans; account required. | Advanced AI Detector and Humanizer. |
+| [HIX Bypass](https://bypass.hix.ai/) | Paid plans; account required. | Bypass AI every time with 100% undetectable content. |
 | [Grammar](https://chatgpt.com/g/g-HVeXQJWBN-grammar) | Available for free users with limited access; account required. \<GPTs\> | Fix grammar mistakes in your text. Works with all languages. |
 
 
