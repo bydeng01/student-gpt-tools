@@ -148,6 +148,7 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 | Name | Cost | Description |
 | --- | --- | --- |
 | [Power BI](https://www.microsoft.com/en-us/power-platform/products/power-bi) | Both free and paid options; Microsoft account required. | Find insights in your data and share rich analytics reports, from Microsoft. |
+| [Chat2DB](https://chat2db.ai/) | Both free and paid options; account required. | Connect to all your data sources and instantly generate optimized SQL queries with AI to gain fast, actionable insights. |
 | [Excel AI](https://chatgpt.com/g/g-R6VqLNHFM-excel-ai) | Available for free users with limited access; account required. \<GPTs\> | The worlds most powerful data analysis assistant. |
 | [Data Analyst](https://chatgpt.com/g/g-HMNcP6w7d-data-analyst) | Available for free users with limited access; account required. \<GPTs\> | Drop in any files and I can help analyze and visualize your data. |
 | [Data Analysis - SPSS](https://chatgpt.com/g/g-Zr8z65jea-data-analysis-spss) | Available for free users with limited access; account required. \<GPTs\> | Expert in statistical analysis and SPSS, guiding researchers. |
