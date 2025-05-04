@@ -161,6 +161,7 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 
 | Name | Cost | Description |
 | --- | --- | --- |
+| [Codex](https://github.com/openai/codex)<br> [![GitHub Repo](https://img.shields.io/badge/Repo-Codex-blue)](https://github.com/openai/codex) [![GitHub stars](https://img.shields.io/github/stars/openai/codex.svg?style=social&label=Star)](https://github.com/openai/codex) |  |  |
 | [GitHub Copilot](https://github.com/features/copilot)| Both free and paid options; free to [verified students](https://github.com/education/students); account required. | The Al editor for everyone. |
 | [Cursor](https://www.cursor.com/) | Both free and paid options; account required. | A code editor built for programming with AI. |
 | [Blackbox AI](https://www.blackbox.ai/) | Free and no signup required. | #1 coding agent +10 million developers, conversational. |
