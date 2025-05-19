@@ -198,6 +198,7 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 | --- | --- | --- |
 | [Napkin AI](https://www.napkin.ai/) | Currently free, check [updates](https://www.napkin.ai/pricing/); account required. | Napkin turns your text into visuals so sharing your ideas is quick and effective. |
 | [Diagramming AI](https://diagrammingai.com/) | Both free and paid options; account required. | AI-powered diagram creation, discussion, suggestion, and updates. |
+| [Lovart AI](https://www.lovart.ai/) | Open beta with waitlist; account required. | Design, edit, and generate together — with traditional and AI-augmented tools, all on one seamless canvas. No more switching tabs. |
 | [Diagrams: Flowcharts & Mindmaps](https://chatgpt.com/g/g-jBdvgesNC-diagrams-flowcharts-mindmaps) | Available for free users with limited access; account required. \<GPTs\> | Infographics & visualization; diagrams, charts + analysis; for code: database, ux, erd, plantuml! for business & data analysis: flowchart, timeline & more! |
 | [Flow Chart Genius](https://chatgpt.com/g/g-uVn4O2oB4-flow-chart-genius) | Available for free users with limited access; account required. \<GPTs\> | I create flow charts to explain connections. |
 | [流程图大师 Flowchart Master](https://chatgpt.com/g/g-yxGozSRry-liu-cheng-tu-da-shi-flowchart-master) | Available for free users with limited access; account required. \<GPTs\> | Guide users in creating flowcharts in a friendly and professional manner. |
