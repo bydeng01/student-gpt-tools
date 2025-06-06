@@ -163,6 +163,7 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 | --- | --- | --- |
 | [Codex](https://github.com/openai/codex)<br> [![GitHub Repo](https://img.shields.io/badge/Repo-Codex-blue)](https://github.com/openai/codex) [![GitHub stars](https://img.shields.io/github/stars/openai/codex.svg?style=social&label=Star)](https://github.com/openai/codex) | Need OpenAI API key | OpenAI Codex CLI, lightweight coding agent that runs in your terminal. |
 | [GitHub Copilot](https://github.com/features/copilot)| Both free and paid options; free to [verified students](https://github.com/education/students); account required. | The Al editor for everyone. |
+| [Jules](https://jules.google/) | Currently in beta and available free of charge; Google account required. | Jules is an asynchronous, agentic coding assistant that integrates directly with your existing repositories. |
 | [Cursor](https://www.cursor.com/) | Both free and paid options; account required. | A code editor built for programming with AI. |
 | [Canva](https://www.canva.com/ai-code-generator/) | Both free and paid options; account required. | AI Code Generator, build interactive experiences with just a conversation and seamlessly integrate them into websites, presentations, docs, and more — no coding needed. |
 | [Blackbox AI](https://www.blackbox.ai/) | Free and no signup required. | #1 coding agent +10 million developers, conversational. |
