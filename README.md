@@ -166,6 +166,7 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 | [GitHub Copilot](https://github.com/features/copilot)| Both free and paid options; free to [verified students](https://github.com/education/students); account required. | The Al editor for everyone. |
 | [Jules](https://jules.google/) | Currently in beta and available free of charge; Google account required. | Jules is an asynchronous, agentic coding assistant that integrates directly with your existing repositories. |
 | [Cursor](https://www.cursor.com/) | Both free and paid options; account required. | A code editor built for programming with AI. |
+| [Kiro](https://kiro.dev/) | Both free and paid options; account required. | The AI IDE for prototype to production, Kiro helps you do your best work by bringing structure to AI coding with spec-driven development. |
 | [Windsurf](https://windsurf.com/) | Both free and paid options; account required. | Windsurf (formerly Codeium) is the world's most advanced AI coding assistant for developers and enterprises. |
 | [Trae](https://www.trae.ai/) | Both free and paid options; account required. | Trae enables natural conversations to unlock possibilities for Human-AI collaboration: just @Agent #Context, and Trae will get your work done. |
 | [Canva](https://www.canva.com/ai-code-generator/) | Both free and paid options; account required. | AI Code Generator, build interactive experiences with just a conversation and seamlessly integrate them into websites, presentations, docs, and more — no coding needed. |
