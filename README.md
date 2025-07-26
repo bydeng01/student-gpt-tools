@@ -108,6 +108,7 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 
 | Name | Cost | Description |
 | --- | --- | --- |
+| [Dia](https://www.diabrowser.com/) | Currently in beta and available free of charge; account required. | The AI Browser Where You Can Chat with Your Tabs. |
 | [Perplexity](https://www.perplexity.ai/) | Both free and paid options; guest access allowed. | AI-powered answer engine that provides accurate, trusted, and real-time answers to any question. |
 | [Google NotebookLM](https://notebooklm.google/) | Both free and paid options; Google account required. | Your Personalized AI Research Assistant, the ultimate tool for understanding the information that matters most to you, built with Gemini 2.0 |
 | [PagePeek](https://pagepeek.ai/) | Both free and paid options; account required. | All-in-One office suite powered by AI. |
