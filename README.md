@@ -45,6 +45,7 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 | Name | Cost | Description |
 | --- | --- | --- |
 | [Grammarly AI Writer](https://www.grammarly.com/ai-writer) | Both free and paid options; account required. | Simplifies the process of creating high-quality content quickly and efficiently. |
+| [QuillBot](https://quillbot.com/) | Both free and paid options; account required. | Write effortlessly and efficiently with QuillBot's suite of AI tools. Paraphrase, check grammar, analyze tone, improve fluency, and more. |
 | [Co-STORM](https://storm.genie.stanford.edu/) | Free; account required. | Get a Wikipedia-like report on your topic with AI, from Stanford University. |
 | [Write For Me](https://chatgpt.com/g/g-B3hgivKK9-write-for-me) | Available for free users with limited access; account required. \<GPTs\> | Write tailored, engaging content with a focus on quality, relevance and precise word count. |
 | [Creative Writing Coach](https://chatgpt.com/g/g-lN1gKFnvL-creative-writing-coach) | Available for free users with limited access; account required. \<GPTs\> | I'm eager to read your work and give you feedback to improve your skills. |
