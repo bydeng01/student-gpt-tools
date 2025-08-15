@@ -39,7 +39,7 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 - [ChatGPT Prompts for Academic Writing](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing)
 - [Best ChatGPT Prompts for Academic Writing (100+ Prompts!)](https://www.papertrue.com/blog/chatgpt-prompts-for-academic-writing/)
 - [Three ways ChatGPT helps me in my academic writing](https://www.nature.com/articles/d41586-024-01042-3)
-- **Prompt for Better Prompting**<br>
+- **Prompt for Better Prompting:**<br>
 ```
 Please help me revise and modify the following prompt for better clarity and precision:
 
