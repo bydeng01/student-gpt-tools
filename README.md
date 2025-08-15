@@ -258,5 +258,5 @@ Please help me revise and modify the following prompt for better clarity and pre
 | University of Adelaide|[Using generative AI tools for study and in research in an ethical, responsible and evaluative way](https://libguides.adelaide.edu.au/c.php?g=959585&p=6965731)|Australia|
 
 ## Disclaimer
-This content is intended solely for productivity enhancement and should not be used for academic misconduct or fraudulent purposes.<br>
-All tool descriptions are sourced directly from their respective official websites.
+- This content is intended solely for productivity enhancement and should not be used for academic misconduct or fraudulent purposes.<br>
+- All tool descriptions are sourced directly from their respective official websites.
