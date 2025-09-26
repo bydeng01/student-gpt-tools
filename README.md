@@ -175,6 +175,7 @@ Please help me revise and modify the following prompt for better clarity and pre
 | Name | Cost | Description |
 | --- | --- | --- |
 | [Codex](https://github.com/openai/codex)<br> [![GitHub Repo](https://img.shields.io/badge/Repo-Codex-blue)](https://github.com/openai/codex) [![GitHub stars](https://img.shields.io/github/stars/openai/codex.svg?style=social&label=Star)](https://github.com/openai/codex) | Need OpenAI API key. | OpenAI Codex CLI, lightweight coding agent that runs in your terminal. |
+| [Qoder](https://qoder.com/) | Both free and paid options; account required. | Agentic Coding Platform for Real Software. Think Deeper. Build Better. |
 | [Gemini CLI](https://github.com/google-gemini/gemini-cli) <br> [![GitHub Repo](https://img.shields.io/badge/Repo-Gemini_CLI-blue)](https://github.com/google-gemini/gemini-cli) [![GitHub stars](https://img.shields.io/github/stars/google-gemini/gemini-cli.svg?style=social&label=Star)](https://github.com/google-gemini/gemini-cli) | Google account (API key) required. | An open-source AI agent that brings the power of Gemini directly into your terminal. |
 | [GitHub Copilot](https://github.com/features/copilot)| Both free and paid options; free to [verified students](https://github.com/education/students); account required. | The Al editor for everyone. |
 | [Jules](https://jules.google/) | Currently in beta and available free of charge; Google account required. | Jules is an asynchronous, agentic coding assistant that integrates directly with your existing repositories. |
