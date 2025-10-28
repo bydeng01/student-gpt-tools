@@ -119,6 +119,7 @@ Please help me revise and modify the following prompt for better clarity and pre
 | Name | Cost | Description |
 | --- | --- | --- |
 | [Novix](https://novix.science/chat) | Both free and paid options; account required. | Novix revolutionizes research workflows through comprehensive capabilities spanning: deep research, innovative ideation, intelligent coding, advanced data analysis, automated experimentation, and paper writing. |
+| [ChatGPT Atlas](https://chatgpt.com/atlas) | ChatGPT account required. | Bring ChatGPT with you across the web for instant answers, smarter suggestions, and help with tasks—all with privacy settings you can control. |
 | [Dia](https://www.diabrowser.com/) | Currently in beta and available free of charge; account required. | The AI Browser Where You Can Chat with Your Tabs. |
 | [Perplexity](https://www.perplexity.ai/) | Both free and paid options; guest access allowed. | AI-powered answer engine that provides accurate, trusted, and real-time answers to any question. |
 | [Google NotebookLM](https://notebooklm.google/) | Both free and paid options; Google account required. | Your Personalized AI Research Assistant, the ultimate tool for understanding the information that matters most to you, built with Gemini 2.0 |
