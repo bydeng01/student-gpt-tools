@@ -73,7 +73,7 @@ Please help me revise and modify the following prompt for better clarity and pre
 | --- | --- | --- |
 | [The Spear](https://thespear.org/) | Complimentary 500 Spear credits after signing up; account required. | 0 AI Detection. The Spear can help you rewrite and optimize English papers Perfectly bypass plagiarism + AI detection. 帮助你改写和优化英文论文,完美绕过抄袭 + AI 检测。 |
 | [GPTZero](https://gptzero.me/) | Both free and paid options; limited guest access allowed. | AI detector made to Preserve what's human. |
-| [ZeroGPT](https://www.zerogpt.com/) | Both free and paid options; limited guest access allowed. | Trusted GPT-5, ChatGPT and AI Detector tool by ZeroGPT. ZeroGPT the most Advanced and Reliable Chat GPT, GPT5 & AI Content Detector |
+| [ZeroGPT](https://www.zerogpt.com/) | Both free and paid options; limited guest access allowed. | Trusted GPT-5, ChatGPT and AI Detector tool by ZeroGPT. ZeroGPT the most Advanced and Reliable Chat GPT, GPT5 & AI Content Detector. |
 | [undetectable AI](https://undetectable.ai/) | Paid plans; account required. | Advanced AI Detector and Humanizer. |
 | [HIX Bypass](https://bypass.hix.ai/) | Paid plans; account required. | Bypass AI every time with 100% undetectable content. |
 | [Grammar](https://chatgpt.com/g/g-HVeXQJWBN-grammar) | Available for free users with limited access; account required. \<GPTs\> | Fix grammar mistakes in your text. Works with all languages. |
