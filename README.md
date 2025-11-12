@@ -84,6 +84,7 @@ Please help me revise and modify the following prompt for better clarity and pre
 ### General Study
 | Name | Cost| Description |
 | --- | --- | ---|
+| [Google Skills](https://www.skills.google/) | Both free and paid options; Google account required. | Build AI skills for tomorrow, today. Whether you’re just getting started or looking to deepen your knowledge, future proof your skills on Google’s new learning platform built for you. |
 | [Learn About](https://learning.google.com/experiments/learn-about/signup) | Currently free; account required. | Grasp new topics and deepen your understanding with a conversational learning companion that adapts to your unique curiosity and learning goals, from [Google Learning](https://learning.google/). |
 |[StudyX](https://studyx.ai/)| Both free and paid options; guest access allowed. | Get quick, reliable solutions across subjects.|
 |[Tutor Me](https://chatgpt.com/g/g-hRCqiqVlM-tutor-me)| Available for free users with limited access; account required. \<GPTs\> | Your personal AI tutor by [Khan Academy](https://www.khanacademy.org/)! I'm Khanmigo Lite - here to help you with math, science, and humanities questions. I won’t do your work for you, but I will help you learn how to solve them on your own.|
