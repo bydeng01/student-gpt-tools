@@ -30,6 +30,7 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 5. [Creativity and Visual Thinking](#creativity-and-visual-thinking)
    - [Brainstorming](#brainstorming)
    - [Diagram](#diagram)
+   - [Presentation](#presentation)
 
 6. [Institutional AI Guides and Research Resources](#institutional-ai-guides-and-research-resources)
 
@@ -231,6 +232,12 @@ Please help me revise and modify the following prompt for better clarity and pre
 | [Diagrams: Flowcharts & Mindmaps](https://chatgpt.com/g/g-jBdvgesNC-diagrams-flowcharts-mindmaps) | Available for free users with limited access; account required. \<GPTs\> | Infographics & visualization; diagrams, charts + analysis; for code: database, ux, erd, plantuml! for business & data analysis: flowchart, timeline & more! |
 | [Flow Chart Genius](https://chatgpt.com/g/g-uVn4O2oB4-flow-chart-genius) | Available for free users with limited access; account required. \<GPTs\> | I create flow charts to explain connections. |
 | [流程图大师 Flowchart Master](https://chatgpt.com/g/g-yxGozSRry-liu-cheng-tu-da-shi-flowchart-master) | Available for free users with limited access; account required. \<GPTs\> | Guide users in creating flowcharts in a friendly and professional manner. |
+
+### Presentation
+| Name | Cost| Description |
+| --- | --- | --- |
+| [Canva Presentations](https://www.canva.com/sem/presentations/) | Both free and paid options; account required. | Design, present, inspire with Canva Presentations |
+| [Presentations.AI](Presentations.AI) | Free trials (5 free presentations, 40 free slides, $80 free credits); account required. | The World's Best AI Presentation Maker. ChatGPT for Presentations - Generate stunning slides in minutes |
 
 ## Institutional AI Guides and Research Resources
 | University | Title | Region |
