@@ -237,7 +237,7 @@ Please help me revise and modify the following prompt for better clarity and pre
 | Name | Cost| Description |
 | --- | --- | --- |
 | [Canva Presentations](https://www.canva.com/sem/presentations/) | Both free and paid options; account required. | Design, present, inspire with Canva Presentations |
-| [Presentations.AI](Presentations.AI) | Free trials (5 free presentations, 40 free slides, $80 free credits); account required. | The World's Best AI Presentation Maker. ChatGPT for Presentations - Generate stunning slides in minutes |
+| [Presentations.AI](https://www.presentations.ai/) | Free trials (5 free presentations, 40 free slides, $80 free credits); account required. | The World's Best AI Presentation Maker. ChatGPT for Presentations - Generate stunning slides in minutes |
 
 ## Institutional AI Guides and Research Resources
 | University | Title | Region |
