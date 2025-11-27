@@ -72,6 +72,7 @@ Please help me revise and modify the following prompt for better clarity and pre
 ### Editing
 | Name | Cost | Description |
 | --- | --- | --- |
+| [Stanford Agentic Reviewer](https://paperreview.ai/) | Free; email required. | Get detailed AI feedback on your research paper, by [Stanford ML Group](https://stanfordmlgroup.github.io/). |
 | [The Spear](https://thespear.org/) | Complimentary 500 Spear credits after signing up; account required. | 0 AI Detection. The Spear can help you rewrite and optimize English papers Perfectly bypass plagiarism + AI detection. 帮助你改写和优化英文论文,完美绕过抄袭 + AI 检测。 |
 | [GPTZero](https://gptzero.me/) | Both free and paid options; limited guest access allowed. | AI detector made to Preserve what's human. |
 | [ZeroGPT](https://www.zerogpt.com/) | Both free and paid options; limited guest access allowed. | Trusted GPT-5, ChatGPT and AI Detector tool by ZeroGPT. ZeroGPT the most Advanced and Reliable Chat GPT, GPT5 & AI Content Detector. |
