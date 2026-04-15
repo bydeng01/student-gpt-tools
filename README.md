@@ -228,6 +228,7 @@ Please help me revise and modify the following prompt for better clarity and pre
 ### Diagram
 | Name | Cost| Description |
 | --- | --- | --- |
+| [Stitch](https://stitch.withgoogle.com/) | Currently in beta; Google account required. | Stitch generates UIs for mobile and web applications, making design ideation fast and easy. |
 | [Napkin AI](https://www.napkin.ai/) | Currently free, check [updates](https://www.napkin.ai/pricing/); account required. | Napkin turns your text into visuals so sharing your ideas is quick and effective. |
 | [Diagramming AI](https://diagrammingai.com/) | Both free and paid options; account required. | AI-powered diagram creation, discussion, suggestion, and updates. |
 | [Lovart AI](https://www.lovart.ai/) | Open beta with waitlist; account required. | Design, edit, and generate together — with traditional and AI-augmented tools, all on one seamless canvas. No more switching tabs. |
