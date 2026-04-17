@@ -78,6 +78,7 @@ Please help me revise and modify the following prompt for better clarity and pre
 | [ZeroGPT](https://www.zerogpt.com/) | Both free and paid options; limited guest access allowed. | Trusted GPT-5, ChatGPT and AI Detector tool by ZeroGPT. ZeroGPT the most Advanced and Reliable Chat GPT, GPT5 & AI Content Detector. |
 | [undetectable AI](https://undetectable.ai/) | Paid plans; account required. | Advanced AI Detector and Humanizer. |
 | [HIX Bypass](https://bypass.hix.ai/) | Paid plans; account required. | Bypass AI every time with 100% undetectable content. |
+| [humanize-chinese](https://github.com/voidborne-d/humanize-chinese)<br> [![GitHub Repo](https://img.shields.io/badge/Repo-humanize--chinese-blue)](https://github.com/voidborne-d/humanize-chinese) [![GitHub stars](https://img.shields.io/github/stars/voidborne-d/humanize-chinese.svg?style=social&label=Star)](https://github.com/voidborne-d/humanize-chinese) | Free (open-source); local only. | Chinese AI-text detection and rewriting toolkit with 0-100 scoring, style transforms, and academic AIGC-reduction workflows. |
 | [Grammar](https://chatgpt.com/g/g-HVeXQJWBN-grammar) | Available for free users with limited access; account required. \<GPTs\> | Fix grammar mistakes in your text. Works with all languages. |
 
 
