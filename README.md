@@ -237,6 +237,7 @@ Please help me revise and modify the following prompt for better clarity and pre
 | [Diagrams: Flowcharts & Mindmaps](https://chatgpt.com/g/g-jBdvgesNC-diagrams-flowcharts-mindmaps) | Available for free users with limited access; account required. \<GPTs\> | Infographics & visualization; diagrams, charts + analysis; for code: database, ux, erd, plantuml! for business & data analysis: flowchart, timeline & more! |
 | [Flow Chart Genius](https://chatgpt.com/g/g-uVn4O2oB4-flow-chart-genius) | Available for free users with limited access; account required. \<GPTs\> | I create flow charts to explain connections. |
 | [流程图大师 Flowchart Master](https://chatgpt.com/g/g-yxGozSRry-liu-cheng-tu-da-shi-flowchart-master) | Available for free users with limited access; account required. \<GPTs\> | Guide users in creating flowcharts in a friendly and professional manner. |
+|[MindMap AI](https://mindmapai.app/research-to-mindmap)	| Both free and paid options; account required.	| AI-powered mind mapping tool that helps students and researchers organize ideas, structure information, and turn documents into visual mind maps. |
 
 ### Presentation
 | Name | Cost| Description |
