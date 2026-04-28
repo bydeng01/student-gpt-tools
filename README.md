@@ -283,9 +283,6 @@ Please help me revise and modify the following prompt for better clarity and pre
 | University of Queensland | [AI tools for literature searching](https://guides.library.uq.edu.au/research-techniques/ai-tools-for-literature-searching) | Australia |
 | University of Adelaide|[Using generative AI tools for study and in research in an ethical, responsible and evaluative way](https://libguides.adelaide.edu.au/c.php?g=959585&p=6965731)|Australia|
 
-## Disclaimer
-- This content is intended solely for productivity enhancement and should not be used for academic misconduct or fraudulent purposes.<br>
-- All tool descriptions are sourced directly from their respective official websites.
 ## Responsible Use
 
 This repository is intended to help students learn, write, study, code, and conduct research more effectively. Users are responsible for following their institution's academic integrity policies and should not use these tools to misrepresent authorship, evade assessment, or violate course rules.
