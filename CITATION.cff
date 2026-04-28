@@ -5,8 +5,10 @@ type: dataset
 authors:
   - family-names: Deng
     given-names: Boyuan
+    email: boyuandeng01@gmail.com
   - family-names: Fan
     given-names: Shuyi
+    email: ff2483@tc.columbia.edu
 repository-code: "https://github.com/bydeng01/student-gpt-tools"
 license: MIT
 version: 1.0.0
