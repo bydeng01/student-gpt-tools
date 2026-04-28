@@ -1,4 +1,7 @@
 # 🎓 student-gpt-tools
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19867600.svg)](https://doi.org/10.5281/zenodo.19867600)
+
 A curated collection of GPT tools and resources tailored for students to enhance learning, productivity, and creativity. Explore AI-powered solutions for writing, studying, coding, and more—designed to make academic life smarter and easier! Consider using the latest models from [Chatgpt](https://chatgpt.com/), [Claude](https://claude.ai/new), [Grok](https://grok.com/) and [Gemini](https://gemini.google.com/app) for advanced capabilities.<br><br>
 Please consider giving this list a star ⭐ if you find it useful.<br>
 

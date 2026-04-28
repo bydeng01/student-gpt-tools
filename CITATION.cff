@@ -8,6 +8,7 @@ authors:
   - family-names: Fan
     given-names: Shuyi
 repository-code: "https://github.com/bydeng01/student-gpt-tools"
+doi: 10.5281/zenodo.19867600
 license: MIT
 version: 1.0.0
 date-released: 2026-04-28
