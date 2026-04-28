@@ -34,7 +34,9 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 
 6. [Institutional AI Guides and Research Resources](#institutional-ai-guides-and-research-resources)
 
-7. [Disclaimer](#disclaimer)
+7. [Responsible Use](#responsible-use)
+
+8. [Disclaimer](#disclaimer)
 
 ## Writing and Editing
 
