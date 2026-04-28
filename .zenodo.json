@@ -1,0 +1,22 @@
+{
+  "title": "student-gpt-tools: A Curated Collection of GPT Tools and AI Resources for Students",
+  "upload_type": "dataset",
+  "description": "A curated multilingual collection of GPT tools and AI resources for students, covering writing, studying, research assistance, coding, creativity, and academic productivity.",
+  "creators": [
+    {
+      "name": "Deng, Boyuan"
+    },
+    {
+      "name": "Fan, Shuyi"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "GPT tools",
+    "AI tools",
+    "student resources",
+    "academic productivity",
+    "learning tools"
+  ],
+  "version": "1.0.0"
+}
