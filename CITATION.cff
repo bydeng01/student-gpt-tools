@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "student-gpt-tools: A Curated Collection of GPT Tools and AI Resources for Students"
+message: "If you use this repository, please cite it as below."
+type: dataset
+authors:
+  - family-names: Deng
+    given-names: Boyuan
+  - family-names: Fan
+    given-names: Shuyi
+repository-code: "https://github.com/bydeng01/student-gpt-tools"
+license: MIT
+version: 1.0.0
+date-released: 2026-04-28
+keywords:
+  - GPT tools
+  - AI tools
+  - student resources
+  - academic productivity
+  - learning tools

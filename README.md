@@ -286,3 +286,14 @@ Please help me revise and modify the following prompt for better clarity and pre
 ## Disclaimer
 - This content is intended solely for productivity enhancement and should not be used for academic misconduct or fraudulent purposes.<br>
 - All tool descriptions are sourced directly from their respective official websites.
+## Responsible Use
+
+This repository is intended to help students learn, write, study, code, and conduct research more effectively. Users are responsible for following their institution's academic integrity policies and should not use these tools to misrepresent authorship, evade assessment, or violate course rules.
+
+## Disclaimer
+
+This repository is a curated educational resource list. It is not a software package, research dataset, or official endorsement of any listed tool.
+
+Many resources linked here are third-party services. Their availability, pricing, features, access requirements, and policies may change over time. The archived version of this repository reflects the state of the list at the time of release, but Zenodo does not preserve the external websites themselves.
+
+Users should verify tool information directly from the original providers before relying on any service.
