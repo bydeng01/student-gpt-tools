@@ -125,7 +125,8 @@ Please help me revise and modify the following prompt for better clarity and pre
 |[Code Tutor](https://chatgpt.com/g/g-HxPrv1p8v-code-tutor)| Available for free users with limited access; account required. \<GPTs\> | Let's code together! I'm Khanmigo Lite, by [Khan Academy]((https://www.khanacademy.org/)). I won't write the code for you, but I'll help you work things out.|
 
 
-## Research Assistance
+## Research
+- [Qonspekt](https://qonspekt.github.io/qonspekt/) - Converts any article into atomic study notes via Claude AI. BYOK, free, no account. [GitHub](https://github.com/Qonspekt/qonspekt) Assistance
 
 | Name | Cost | Description |
 | --- | --- | --- |
