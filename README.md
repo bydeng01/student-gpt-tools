@@ -145,6 +145,7 @@ Please help me revise and modify the following prompt for better clarity and pre
 ### Literature Review and Reading
 | Name | Cost| Description |
 | --- | --- | --- |
+| [Suppr](https://suppr.wilddata.cn/) | Both free and paid options; account required. | AI literature search, document translation, and deep-research workspace for researchers, with PubMed/OpenAlex search and Zotero plugin workflow. |
 | [ResearchRabbit](https://www.researchrabbit.ai/) | Free forever; account required. | The most powerful discovery app ever built for researchers, integrating with [Zotero](https://www.zotero.org/). |
 | [Scholar GPT](https://chatgpt.com/g/g-kZ0eYXlJe-scholar-gpt) | Available for free users with limited access; account required. \<GPTs\> | Enhance research with 200M+ resources and built-in critical reading skills. Access Google Scholar, PubMed, JSTOR, Arxiv, and more, effortlessly. |
 | [Consensus](https://chatgpt.com/g/g-bo0FiWLY7-consensus) | Available for free users with limited access; account required. \<GPTs\> | Ask the research, chat directly with the world's scientific literature. Search references, get simple explanations, write articles backed by academic papers. |
