@@ -136,6 +136,7 @@ Please help me revise and modify the following prompt for better clarity and pre
 | [Comet Browser](https://www.perplexity.ai/comet) | Both free and paid options; guest access allowed. | The browser that works for you. |
 | [Perplexity](https://www.perplexity.ai/) | Both free and paid options; guest access allowed. | AI-powered answer engine that provides accurate, trusted, and real-time answers to any question. |
 | [Google NotebookLM](https://notebooklm.google/) | Both free and paid options; Google account required. | Your Personalized AI Research Assistant, the ultimate tool for understanding the information that matters most to you, built with Gemini 2.0 |
+| [Remio](https://remio.ai/) | Freemium; desktop app required. | Local-first AI memory and knowledge base for students and researchers. It parses files, webpages, recordings, emails, and notes into local indexes and vectors so users can retrieve focused context without repeatedly scanning folders or loading whole documents into prompts. |
 | [PagePeek](https://pagepeek.ai/) | Both free and paid options; account required. | All-in-One office suite powered by AI. |
 | [Paperpal](https://paperpal.com/) | Both free and paid options; account required. | Everything Academics Need – All in One Place. |
 | [Citely](https://citely.ai/) | Both free and paid options; account required. | AI citation checker and academic source finder for verifying references and claims. |
