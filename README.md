@@ -98,6 +98,7 @@ Please help me revise and modify the following prompt for better clarity and pre
 |[StudyX](https://studyx.ai/)| Both free and paid options; guest access allowed. | Get quick, reliable solutions across subjects.|
 |[Tutor Me](https://chatgpt.com/g/g-hRCqiqVlM-tutor-me)| Available for free users with limited access; account required. \<GPTs\> | Your personal AI tutor by [Khan Academy](https://www.khanacademy.org/)! I'm Khanmigo Lite - here to help you with math, science, and humanities questions. I won’t do your work for you, but I will help you learn how to solve them on your own.|
 |[Universal Primer](https://chatgpt.com/g/g-GbLbctpPz-universal-primer) | Available for free users with limited access; account required. \<GPTs\> | The fastest way to learn anything hard.|
+| [Wenlan](https://wenlan.app/learn/build-course-wiki-from-lecture-notes) | Free and open-source; local desktop app. | Turn supported lecture notes, Markdown, text, and text-extractable PDFs into a maintained course wiki with source citations, concept links, revision state, and human review. |
 
 ### Targeted Learning
 
