@@ -115,6 +115,7 @@ Please help me revise and modify the following prompt for better clarity and pre
 #### Language Learning
 | Name | Cost | Description |
 | --- | --- | --- |
+| [IELTS Writing Practice](https://ieltswritingpractice.app/) | Free question bank and timed drafting; account and paid plan required for AI feedback. | Practise IELTS Academic Task 1, General Training Task 1, and Task 2, then get estimated band scores and criterion-specific feedback. |
 | [IELTS Speaking - English & Language Learning](https://chatgpt.com/g/g-LDICowG2o-ielts-speaking-english-language-learning) | Available for free users with limited access; account required. \<GPTs\> | IELTS Speaking Test, providing scores. You can use voice mode to start. It has the latest IELTS topics. |
 | [IELTS AI Checker (Speaking and Writing) Official®](https://chatgpt.com/g/g-YScypAShQ-ielts-ai-checker-speaking-and-writing-official-r)| Available for free users with limited access; account required. \<GPTs\> | AI IELTS speaking and writing tool - band score with feedback. |
 | [Language Teacher \| Ms. Smith](https://chatgpt.com/g/g-RR3RCyK8N-language-teacher-ms-smith)| Available for free users with limited access; account required. \<GPTs\> |Supports 20+ languages - Spanish, German, French, English, Chinese, Korean, Japanese, ... Your private tutor to learn any language in most effective way by having conversation. Increase your vocabulary by talking about fun topics, coach you. |
