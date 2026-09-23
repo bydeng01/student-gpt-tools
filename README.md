@@ -44,6 +44,7 @@ Please consider giving this list a star ⭐ if you find it useful.<br>
 ## Writing and Editing
 
 ### Prompt for Writing
+- [MagicKit](https://kaketiti.github.io) - Free AI tools collection - 66+ tools, zero registration, zero API key required
 - [AI for Grant Writing](https://github.com/eseckel/ai-for-grant-writing)
 - [ChatGPT Prompts for Academic Writing](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing)
 - [Best ChatGPT Prompts for Academic Writing (100+ Prompts!)](https://www.papertrue.com/blog/chatgpt-prompts-for-academic-writing/)
