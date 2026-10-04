@@ -75,6 +75,7 @@ Please help me revise and modify the following prompt for better clarity and pre
 | [Rytr](https://rytr.me/) | Both free and paid options; account required. | Your shortcut to original, compelling content. Choose from over 40+ content use cases and templates—from email responses and blog posts to social media ads and everything in between. |
 | [EssayGPT](https://essaygpt.hix.ai/) | Paid plans; account required. | Write, edit, and improve your essay with the best AI essay writing copilot. Research, cite, & check plagiarism easily - all in one place. |
 | [Thesify](https://www.thesify.ai/) | Paid plans; account required. | Thesify is an AI-powered academic writing assistant designed to enhance your writing process. |
+| [AI eBook Pro](https://aiebookpro.com/) | Both free and paid options; account required. | Turns a one-sentence idea into a full eBook draft with chapters and a cover, exported as PDF, EPUB or DOCX. |
 
 ### Editing
 | Name | Cost | Description |
