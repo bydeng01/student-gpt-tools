@@ -153,6 +153,7 @@ Please help me revise and modify the following prompt for better clarity and pre
 | [SCISPACE](https://typeset.io/) | Both free and paid options; guest access allowed. |All-in-one AI tools for students and researchers. |
 | [MedPeer](https://product.medpeer.cn/product/index/product) | Free trial; account required. | Comprehensive access to tools and databases for academic writing, scientific plotting, machine translation, scientific communication, and scientific literature, making research easier. 一站式访问论文写作、科研绘图、机器翻译、科学对话、科技文献等工具和数据库，让科研变得更简单。|
 | [inquisite](https://www.inquisite.ai/) | Both free and paid options; account required. | Accelerate research, win more grant funding, secure IP and navigate regulatory compliance with Inquisite's agentic AI Assistants built for deep tech and applied sciences organizations. |
+| [Amplify by ResearchBunny](https://www.researchamplify.com/) | Paid per paper, no subscription; account required. | Turns a published paper's PDF into a video abstract, a vertical short, an audio brief in English plus 21 more languages, and a one-page infographic. A person reviews every format, and nothing is published until the researcher approves. |
 
 ### Literature Review and Reading
 | Name | Cost| Description |
