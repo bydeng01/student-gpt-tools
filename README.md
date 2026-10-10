@@ -76,6 +76,7 @@ Please help me revise and modify the following prompt for better clarity and pre
 | [EssayGPT](https://essaygpt.hix.ai/) | Paid plans; account required. | Write, edit, and improve your essay with the best AI essay writing copilot. Research, cite, & check plagiarism easily - all in one place. |
 | [Thesify](https://www.thesify.ai/) | Paid plans; account required. | Thesify is an AI-powered academic writing assistant designed to enhance your writing process. |
 | [AI eBook Pro](https://aiebookpro.com/) | Both free and paid options; account required. | Turns a one-sentence idea into a full eBook draft with chapters and a cover, exported as PDF, EPUB or DOCX. |
+| [ImagineYourBook](https://www.imagineyourbook.com/) | 7-day free trial (card required to download), then paid plans; account required. | Plans and drafts full-length books chapter by chapter, rewrites existing drafts in the author's voice, keeps series continuity with a story bible, and exports EPUB, Word or Markdown. |
 
 ### Editing
 | Name | Cost | Description |
