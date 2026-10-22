@@ -99,7 +99,6 @@ Please help me revise and modify the following prompt for better clarity and pre
 | --- | --- | ---|
 | [Google Skills](https://www.skills.google/) | Both free and paid options; Google account required. | Build AI skills for tomorrow, today. Whether you’re just getting started or looking to deepen your knowledge, future proof your skills on Google’s new learning platform built for you. |
 | [Learn About](https://learning.google.com/experiments/learn-about/signup) | Currently free; account required. | Grasp new topics and deepen your understanding with a conversational learning companion that adapts to your unique curiosity and learning goals, from [Google Learning](https://learning.google/). |
-| [ORANO](https://oranoai.com) | Both free and paid options; iOS, Android and web. | Turns saved Reels, TikToks, YouTube videos, articles and PDFs into searchable summaries, key takeaways and step-by-step plans. |
 | [StudyArena](https://studyarena.com) | Free three-model comparisons; paid model choice and six-model comparisons. | Compare three anonymous answers to a study question, vote for the most useful explanation, then reveal the models. |
 |[StudyX](https://studyx.ai/)| Both free and paid options; guest access allowed. | Get quick, reliable solutions across subjects.|
 | [SummarizAI](https://summarizai.ink) | Free plan for students; paid plans available; Chrome extension. | Chrome extension that adds an AI summary, chapters, chat, and Study flashcards on the YouTube watch page, so you can review recorded lectures faster. |
@@ -107,6 +106,7 @@ Please help me revise and modify the following prompt for better clarity and pre
 |[Universal Primer](https://chatgpt.com/g/g-GbLbctpPz-universal-primer) | Available for free users with limited access; account required. \<GPTs\> | The fastest way to learn anything hard.|
 | [Wenlan](https://wenlan.app/learn/build-course-wiki-from-lecture-notes) | Free and open-source; local desktop app. | Turn supported lecture notes, Markdown, text, and text-extractable PDFs into a maintained course wiki with source citations, concept links, revision state, and human review. |
 | [Yap Audio to Text](https://yapapp.cc/audio-to-text) | Free; no account required. | Transcribes lecture recordings, interviews and other audio or video files to text with SRT and VTT subtitles in the browser, with no upload. |
+| [ORANO](https://oranoai.com) | Both free and paid options; iOS, Android and web. | Turns saved Reels, TikToks, YouTube videos, articles and PDFs into searchable summaries, key takeaways and step-by-step plans. |
 
 ### Targeted Learning
 
