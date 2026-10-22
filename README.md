@@ -99,6 +99,7 @@ Please help me revise and modify the following prompt for better clarity and pre
 | --- | --- | ---|
 | [Google Skills](https://www.skills.google/) | Both free and paid options; Google account required. | Build AI skills for tomorrow, today. Whether you’re just getting started or looking to deepen your knowledge, future proof your skills on Google’s new learning platform built for you. |
 | [Learn About](https://learning.google.com/experiments/learn-about/signup) | Currently free; account required. | Grasp new topics and deepen your understanding with a conversational learning companion that adapts to your unique curiosity and learning goals, from [Google Learning](https://learning.google/). |
+| [ORANO](https://oranoai.com) | Both free and paid options; iOS, Android and web. | Turns saved Reels, TikToks, YouTube videos, articles and PDFs into searchable summaries, key takeaways and step-by-step plans. |
 | [StudyArena](https://studyarena.com) | Free three-model comparisons; paid model choice and six-model comparisons. | Compare three anonymous answers to a study question, vote for the most useful explanation, then reveal the models. |
 |[StudyX](https://studyx.ai/)| Both free and paid options; guest access allowed. | Get quick, reliable solutions across subjects.|
 | [SummarizAI](https://summarizai.ink) | Free plan for students; paid plans available; Chrome extension. | Chrome extension that adds an AI summary, chapters, chat, and Study flashcards on the YouTube watch page, so you can review recorded lectures faster. |
