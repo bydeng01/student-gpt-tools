@@ -77,6 +77,7 @@ Please help me revise and modify the following prompt for better clarity and pre
 | [Thesify](https://www.thesify.ai/) | Paid plans; account required. | Thesify is an AI-powered academic writing assistant designed to enhance your writing process. |
 | [AI eBook Pro](https://aiebookpro.com/) | Both free and paid options; account required. | Turns a one-sentence idea into a full eBook draft with chapters and a cover, exported as PDF, EPUB or DOCX. |
 | [ImagineYourBook](https://www.imagineyourbook.com/) | 7-day free trial (card required to download), then paid plans; account required. | Plans and drafts full-length books chapter by chapter, rewrites existing drafts in the author's voice, keeps series continuity with a story bible, and exports EPUB, Word or Markdown. |
+| [Ritemark](https://ritemark.app/) | Free (open-source, MIT); no account required for the app, the AI agents use your own Claude or ChatGPT account. | Turns a folder on your computer into a workspace where ChatGPT or Claude work with you. Your notes and drafts stay plain Markdown files, and Claude Code, Codex or OpenCode edit them directly. Mac and Windows. |
 
 ### Editing
 | Name | Cost | Description |
