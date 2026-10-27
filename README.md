@@ -118,6 +118,7 @@ Please help me revise and modify the following prompt for better clarity and pre
 |[Math Solver](https://chatgpt.com/g/g-9YeZz6m6k-math-solver) | Available for free users with limited access; account required. \<GPTs\> | Your AI Math Solver, offers step-by-step answers, and helps you learn math and even all subjects, at any educational level.|
 |[math](https://chatgpt.com/g/g-WP1diWHRl-math) | Available for free users with limited access; account required. \<GPTs\> | The worlds most powerful math tool. [$PULSR](https://pulsr.co.uk/) |
 |[physics](https://chatgpt.com/g/g-KMujTLNVK-physics) | Available for free users with limited access; account required. \<GPTs\> | The worlds most powerful Physics tool. [$PULSR](https://pulsr.co.uk/) |
+|[ArtiGram](https://artigram.cafeboon.com/) | Free; no account needed to browse, a free API key to publish. | Free site of interactive lessons and visualizations made with AI assistants, such as a Monty Hall simulator and a probability explorer, each one a live page you can play with. I built it. |
 
 #### Language Learning
 | Name | Cost | Description |
