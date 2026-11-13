@@ -99,6 +99,7 @@ Please help me revise and modify the following prompt for better clarity and pre
 ### General Study
 | Name | Cost| Description |
 | --- | --- | ---|
+| [Glasp](https://glasp.co/) | Free plan, plus a free plan for [verified university students](https://glasp.co/students); browser extension and web app. | AI summaries and AI chat on web pages and YouTube videos, with YouTube transcripts. Highlights web pages, PDFs and YouTube videos, and exports highlights to Markdown, Notion, Obsidian and Roam. |
 | [Google Skills](https://www.skills.google/) | Both free and paid options; Google account required. | Build AI skills for tomorrow, today. Whether you’re just getting started or looking to deepen your knowledge, future proof your skills on Google’s new learning platform built for you. |
 | [Learn About](https://learning.google.com/experiments/learn-about/signup) | Currently free; account required. | Grasp new topics and deepen your understanding with a conversational learning companion that adapts to your unique curiosity and learning goals, from [Google Learning](https://learning.google/). |
 | [soclever](https://soclever.io) | One free lesson, podcast, comic or quiz; then paid plans. Account required; web. | Type a topic and get a short course: five-minute lessons, practice questions after each one, a comic and podcast version of every lesson, and a final exam. Works in English and Hebrew. |
