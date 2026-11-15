@@ -110,6 +110,7 @@ Please help me revise and modify the following prompt for better clarity and pre
 | [Wenlan](https://wenlan.app/learn/build-course-wiki-from-lecture-notes) | Free and open-source; local desktop app. | Turn supported lecture notes, Markdown, text, and text-extractable PDFs into a maintained course wiki with source citations, concept links, revision state, and human review. |
 | [Yap Audio to Text](https://yapapp.cc/audio-to-text) | Free; no account required. | Transcribes lecture recordings, interviews and other audio or video files to text with SRT and VTT subtitles in the browser, with no upload. |
 | [ORANO](https://oranoai.com) | Both free and paid options; iOS, Android and web. | Turns saved Reels, TikToks, YouTube videos, articles and PDFs into searchable summaries, key takeaways and step-by-step plans. |
+| [YouTube Transcript: AI Summary & Chat](https://chromewebstore.google.com/detail/youtube-transcript-ai-sum/bbappnicmjmiliipjcmciaffiglmoekd) | Freemium; Chrome extension. | Shows a YouTube video as a timestamped transcript, so you can find the exact moment in a recorded lecture, get the key points, or ask the video questions. Free AI credits available. |
 
 ### Targeted Learning
 
