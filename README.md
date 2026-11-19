@@ -192,6 +192,7 @@ Please help me revise and modify the following prompt for better clarity and pre
 | [PDF Reader](https://chatgpt.com/g/g-QSh6KHL3S-pdf-reader) | Available for free users with limited access; account required. \<GPTs\> | In-depth interaction with PDF content. |
 | [PapersGPT](https://github.com/papersgpt/papersgpt-for-zotero) <br> [![GitHub Repo](https://img.shields.io/badge/Repo-papersgpt-blue)](https://github.com/papersgpt/papersgpt-for-zotero) [![GitHub stars](https://img.shields.io/github/stars/papersgpt/papersgpt-for-zotero.svg?style=social&label=Star)](https://github.com/papersgpt/papersgpt-for-zotero) | Free (open-source) | Zotero chat PDF with DeepSeek, GPT, ChatGPT, Claude, Gemini. |
 | [Onhand](https://useonhand.com/) <br> [![GitHub Repo](https://img.shields.io/badge/Repo-Onhand-blue)](https://github.com/Phineas1500/Onhand) [![GitHub stars](https://img.shields.io/github/stars/Phineas1500/Onhand.svg?style=social&label=Star)](https://github.com/Phineas1500/Onhand) | Free (open source); no account required for the free tier, or use your own ChatGPT plan or API key. | Chrome extension that answers questions about the webpage or PDF you're reading and highlights the passages it used. |
+| [JournalCompass](https://journalcompass.com/) | Free; guest access allowed. | Free bilingual journal finder: search 43,499 SCI/SSCI journals by CAS zone, impact factor, review time and APC/OA status, with an AI journal matcher. |
 
 ### Data Analysis
 | Name | Cost | Description |
