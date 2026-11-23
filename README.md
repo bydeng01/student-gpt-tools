@@ -192,6 +192,7 @@ Please help me revise and modify the following prompt for better clarity and pre
 | [PDF Reader](https://chatgpt.com/g/g-QSh6KHL3S-pdf-reader) | Available for free users with limited access; account required. \<GPTs\> | In-depth interaction with PDF content. |
 | [PapersGPT](https://github.com/papersgpt/papersgpt-for-zotero) <br> [![GitHub Repo](https://img.shields.io/badge/Repo-papersgpt-blue)](https://github.com/papersgpt/papersgpt-for-zotero) [![GitHub stars](https://img.shields.io/github/stars/papersgpt/papersgpt-for-zotero.svg?style=social&label=Star)](https://github.com/papersgpt/papersgpt-for-zotero) | Free (open-source) | Zotero chat PDF with DeepSeek, GPT, ChatGPT, Claude, Gemini. |
 | [Onhand](https://useonhand.com/) <br> [![GitHub Repo](https://img.shields.io/badge/Repo-Onhand-blue)](https://github.com/Phineas1500/Onhand) [![GitHub stars](https://img.shields.io/github/stars/Phineas1500/Onhand.svg?style=social&label=Star)](https://github.com/Phineas1500/Onhand) | Free (open source); no account required for the free tier, or use your own ChatGPT plan or API key. | Chrome extension that answers questions about the webpage or PDF you're reading and highlights the passages it used. |
+| [Google Scholar API](https://apify.com/johnvc/google-scholar-api) | Paid per result; Apify account required. | Searches Google Scholar and returns papers, authors, citation counts and PDF links as JSON or CSV for literature reviews. |
 
 ### Data Analysis
 | Name | Cost | Description |
