@@ -208,6 +208,7 @@ Please help me revise and modify the following prompt for better clarity and pre
 | [pandas-ai](https://github.com/sinaptik-ai/pandas-ai)<br> [![GitHub Repo](https://img.shields.io/badge/Repo-pandas_ai-blue)](https://github.com/sinaptik-ai/pandas-ai) [![GitHub stars](https://img.shields.io/github/stars/sinaptik-ai/pandas-ai.svg?style=social&label=Star)](https://github.com/sinaptik-ai/pandas-ai) | Free (open-source) | Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG. |
 | [ChatExcel AI](https://chatexcel.com/#/) | Both free and paid options; account required. | AI can process Excel and perform data analysis just through chatting. 仅通过聊天AI即可处理Excel和数据分析。 |
 | [ChatGPT for Excel](https://appsource.microsoft.com/en-my/product/office/WA200005271?tab=Overview) | Paid option only; account required. | AI add-in for Excel. |
+| [Public Records MCP](https://github.com/GeminiGeorge22/publicrecords-mcp/blob/main/README.zh-CN.md) | 18 个托管在 Apify 上的公共数据 MCP 服务器：美国联邦合同与资助（SAM.gov、Grants.gov、USAspending）、欧盟 TED 与英国招标、市议会会议、Ashby/Greenhouse/Lever/SmartRecruiters 职位、公司社交账号、Google 广告透明度、Etsy 销量、体育赔率、Spotify 播放量 |  |
 
 ## Coding and Debugging
 
