@@ -112,6 +112,7 @@ Please help me revise and modify the following prompt for better clarity and pre
 | [Yap Audio to Text](https://yapapp.cc/audio-to-text) | Free; no account required. | Transcribes lecture recordings, interviews and other audio or video files to text with SRT and VTT subtitles in the browser, with no upload. |
 | [ORANO](https://oranoai.com) | Both free and paid options; iOS, Android and web. | Turns saved Reels, TikToks, YouTube videos, articles and PDFs into searchable summaries, key takeaways and step-by-step plans. |
 | [YouTube Transcript: AI Summary & Chat](https://chromewebstore.google.com/detail/youtube-transcript-ai-sum/bbappnicmjmiliipjcmciaffiglmoekd) | Freemium; Chrome extension. | Shows a YouTube video as a timestamped transcript, so you can find the exact moment in a recorded lecture, get the key points, or ask the video questions. Free AI credits available. |
+| [Aethel](https://aethel.pro/practice) | Free; no account required. | Practise for a job interview in a developer role: four questions written for your role and level, each with an instant check that quotes your words back. |
 
 ### Targeted Learning
 
