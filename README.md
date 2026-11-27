@@ -55,6 +55,7 @@ Please help me revise and modify the following prompt for better clarity and pre
 [Insert Prompt Here]
 ```
 - [Prompt Generator](https://trypromptgenerator.com)
+- [AshuTeacher](https://ashuteacher.vercel.app) - Free AI-powered learning PWA & Android app with an interactive voice blackboard tutor in 24+ languages, exam paper solver, adaptive quizzes, and a Project, Thesis & Research Studio.
 
 ### Writing
 | Name | Cost | Description |
